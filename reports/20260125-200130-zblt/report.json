@@ -1,0 +1,6596 @@
+{
+  "meta": {
+    "id": "20260125-200130-zblt",
+    "title": "Valentino Graves",
+    "commanders": [
+      "Valentino Graves"
+    ],
+    "dateStart": "2026-01-26T04:01:30.000Z",
+    "dateEnd": "2026-01-26T04:24:38.000Z",
+    "dateLabel": "1/25/2026, 8:01:30 PM - 1/25/2026, 8:24:38 PM",
+    "generatedAt": "2026-01-26T22:56:12.315Z",
+    "appVersion": "1.4.2"
+  },
+  "stats": {
+    "total": 3,
+    "wins": 3,
+    "losses": 0,
+    "avgSquadSize": 14,
+    "avgEnemies": 16,
+    "squadKDR": "50.00",
+    "enemyKDR": "0.02",
+    "totalSquadKills": 50,
+    "totalSquadDeaths": 1,
+    "totalEnemyKills": 1,
+    "totalEnemyDeaths": 50,
+    "maxDownContrib": {
+      "value": 228068,
+      "player": "Zietlogik.6208",
+      "count": 3,
+      "profession": "Reaper"
+    },
+    "maxCleanses": {
+      "value": 616,
+      "player": "Stan.9684",
+      "count": 3,
+      "profession": "Tempest"
+    },
+    "maxStrips": {
+      "value": 219,
+      "player": "Zietlogik.6208",
+      "count": 3,
+      "profession": "Reaper"
+    },
+    "maxStab": {
+      "value": 7645.534522000001,
+      "player": "Shanhana Miko.8702",
+      "count": 5,
+      "profession": "Luminary"
+    },
+    "maxHealing": {
+      "value": 581282,
+      "player": "Stan.9684",
+      "count": 3,
+      "profession": "Tempest"
+    },
+    "maxBarrier": {
+      "value": 223134,
+      "player": "Quantumized.5873",
+      "count": 2,
+      "profession": "Scrapper"
+    },
+    "maxCC": {
+      "value": 27,
+      "player": "VincentCross.1469",
+      "count": 3,
+      "profession": "Firebrand"
+    },
+    "closestToTag": {
+      "value": 375.51328735351564,
+      "player": "pinguinox.9528",
+      "count": 5,
+      "profession": "Scrapper"
+    },
+    "topSkills": [
+      {
+        "name": "Burning",
+        "damage": 1195258,
+        "hits": 1627
+      },
+      {
+        "name": "Lightning Whip",
+        "damage": 591594,
+        "hits": 274
+      },
+      {
+        "name": "Burning Speed",
+        "damage": 461928,
+        "hits": 79
+      },
+      {
+        "name": "Torment",
+        "damage": 413552,
+        "hits": 776
+      },
+      {
+        "name": "Dazzling Hammer",
+        "damage": 391794,
+        "hits": 89
+      }
+    ],
+    "topIncomingSkills": [
+      {
+        "name": "Barrage",
+        "damage": 327480,
+        "hits": 763
+      },
+      {
+        "name": "Fire Devastating Arrows",
+        "damage": 210886,
+        "hits": 250
+      },
+      {
+        "name": "Devastating Shatter Shot",
+        "damage": 158775,
+        "hits": 30
+      },
+      {
+        "name": "Call to Arms",
+        "damage": 108516,
+        "hits": 14
+      },
+      {
+        "name": "Crushing Blow",
+        "damage": 71031,
+        "hits": 52
+      }
+    ],
+    "mapData": [
+      {
+        "name": "Green Borderlands",
+        "value": 3,
+        "color": "#10b981"
+      }
+    ],
+    "squadClassData": [
+      {
+        "name": "Luminary",
+        "value": 3,
+        "color": "#72C1D9"
+      },
+      {
+        "name": "Catalyst",
+        "value": 2,
+        "color": "#F68A87"
+      },
+      {
+        "name": "Reaper",
+        "value": 2,
+        "color": "#52A76F"
+      },
+      {
+        "name": "Scrapper",
+        "value": 2,
+        "color": "#D09C59"
+      },
+      {
+        "name": "Amalgam",
+        "value": 1,
+        "color": "#D09C59"
+      },
+      {
+        "name": "Firebrand",
+        "value": 1,
+        "color": "#72C1D9"
+      },
+      {
+        "name": "Scourge",
+        "value": 1,
+        "color": "#52A76F"
+      },
+      {
+        "name": "Tempest",
+        "value": 1,
+        "color": "#F68A87"
+      }
+    ],
+    "enemyClassData": [
+      {
+        "name": "Reaper",
+        "value": 9,
+        "color": "#52A76F"
+      },
+      {
+        "name": "Amalgam",
+        "value": 3,
+        "color": "#D09C59"
+      },
+      {
+        "name": "Dragonhunter",
+        "value": 3,
+        "color": "#72C1D9"
+      },
+      {
+        "name": "Evoker",
+        "value": 3,
+        "color": "#F68A87"
+      },
+      {
+        "name": "Scrapper",
+        "value": 3,
+        "color": "#D09C59"
+      },
+      {
+        "name": "Soulbeast",
+        "value": 3,
+        "color": "#8CDC82"
+      },
+      {
+        "name": "Conduit",
+        "value": 2,
+        "color": "#D16E5A"
+      },
+      {
+        "name": "Galeshot",
+        "value": 2,
+        "color": "#8CDC82"
+      },
+      {
+        "name": "Harbinger",
+        "value": 2,
+        "color": "#52A76F"
+      },
+      {
+        "name": "Mechanist",
+        "value": 2,
+        "color": "#D09C59"
+      }
+    ],
+    "timelineData": [
+      {
+        "label": "1/25/2026",
+        "allies": 13,
+        "enemies": 14,
+        "timestamp": 1769400402,
+        "index": 1
+      },
+      {
+        "label": "1/25/2026",
+        "allies": 13,
+        "enemies": 15,
+        "timestamp": 1769400753,
+        "index": 2
+      },
+      {
+        "label": "1/25/2026",
+        "allies": 16,
+        "enemies": 18,
+        "timestamp": 1769401483,
+        "index": 3
+      }
+    ],
+    "boonTables": [
+      {
+        "id": "b1122",
+        "name": "Stability",
+        "stacking": true,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "activeTimeMs": 630372,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 109851.774,
+                "wastedMs": 26956.195
+              },
+              "groupBuffs": {
+                "generationMs": 96268.308,
+                "wastedMs": 28715.424
+              },
+              "squadBuffs": {
+                "generationMs": 144002.94,
+                "wastedMs": 28715.424000000003
+              }
+            }
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "activeTimeMs": 538466,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 26023.353,
+                "wastedMs": 897.357
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "activeTimeMs": 740504,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 68573.60399999999,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 84938.94,
+                "wastedMs": 43328.628
+              },
+              "squadBuffs": {
+                "generationMs": 156358.03499999997,
+                "wastedMs": 72214.38
+              }
+            }
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 1018033.6180000001,
+                "wastedMs": 43366.827000000005
+              },
+              "groupBuffs": {
+                "generationMs": 2413666.124,
+                "wastedMs": 69300.68400000001
+              },
+              "squadBuffs": {
+                "generationMs": 3753562.02,
+                "wastedMs": 128867.37600000002
+              }
+            }
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 658259,
+                "wastedMs": 95557.142
+              },
+              "groupBuffs": {
+                "generationMs": 1641223.22,
+                "wastedMs": 66935.024
+              },
+              "squadBuffs": {
+                "generationMs": 2771009.358,
+                "wastedMs": 114232.98000000001
+              }
+            }
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "activeTimeMs": 339348,
+            "numFights": 2,
+            "groupSupported": 10,
+            "squadSupported": 26,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 89463.37,
+                "wastedMs": 12242.377
+              },
+              "groupBuffs": {
+                "generationMs": 311413.4,
+                "wastedMs": 55274.064
+              },
+              "squadBuffs": {
+                "generationMs": 461874.3,
+                "wastedMs": 58818
+              }
+            }
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "activeTimeMs": 740514,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 59914.576,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 694433.706,
+                "wastedMs": 33930.455
+              },
+              "groupBuffs": {
+                "generationMs": 1999580.272,
+                "wastedMs": 125075.407
+              },
+              "squadBuffs": {
+                "generationMs": 2596643.007,
+                "wastedMs": 130122.705
+              }
+            }
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "activeTimeMs": 740501,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 406763.08900000004,
+                "wastedMs": 33562.487
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 1640954.074,
+                "wastedMs": 55129.61299999999
+              },
+              "groupBuffs": {
+                "generationMs": 1903312.184,
+                "wastedMs": 145011.176
+              },
+              "squadBuffs": {
+                "generationMs": 6004580.448,
+                "wastedMs": 191720.583
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 332890.182,
+                "wastedMs": 24472.650999999998
+              },
+              "groupBuffs": {
+                "generationMs": 954359.0630000001,
+                "wastedMs": 70208.42500000002
+              },
+              "squadBuffs": {
+                "generationMs": 1668602.028,
+                "wastedMs": 72214.38
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b873",
+        "name": "Resolution",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "activeTimeMs": 630372,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 91736.78012000001,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "activeTimeMs": 538466,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 43981.90166,
+                "wastedMs": 31858.619110000003
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "activeTimeMs": 740504,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 57920.410099999994,
+                "wastedMs": 6448.68417
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 446910.7253,
+                "wastedMs": 53988.80334
+              },
+              "groupBuffs": {
+                "generationMs": 491131.07904,
+                "wastedMs": 8120.10584
+              },
+              "squadBuffs": {
+                "generationMs": 837505.74777,
+                "wastedMs": 41190.438749999994
+              }
+            }
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 464339.9851599999,
+                "wastedMs": 25207.632250000002
+              },
+              "groupBuffs": {
+                "generationMs": 418846.00463999994,
+                "wastedMs": 22334.979639999998
+              },
+              "squadBuffs": {
+                "generationMs": 711064.1958300001,
+                "wastedMs": 81304.43385
+              }
+            }
+          },
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 59967.50959,
+                "wastedMs": 9190.26509
+              },
+              "groupBuffs": {
+                "generationMs": 49987.91894999999,
+                "wastedMs": 11.964760000000002
+              },
+              "squadBuffs": {
+                "generationMs": 71892.82275,
+                "wastedMs": 3080.7210600000003
+              }
+            }
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "activeTimeMs": 339348,
+            "numFights": 2,
+            "groupSupported": 10,
+            "squadSupported": 26,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 67400.37614000001,
+                "wastedMs": 2.9911900000000005
+              },
+              "groupBuffs": {
+                "generationMs": 30488.47256,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 42508.74888,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "activeTimeMs": 740514,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 92761.56802,
+                "wastedMs": 2001.1061100000002
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 366910.15145999996,
+                "wastedMs": 58644.58971
+              },
+              "groupBuffs": {
+                "generationMs": 301881.00845,
+                "wastedMs": 9924.34666
+              },
+              "squadBuffs": {
+                "generationMs": 377640.91761,
+                "wastedMs": 27133.683149999997
+              }
+            }
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "activeTimeMs": 740501,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 310878.48804,
+                "wastedMs": 24828.54833
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 534084.03467,
+                "wastedMs": 65865.00135
+              },
+              "groupBuffs": {
+                "generationMs": 142323.96091,
+                "wastedMs": 47140.5692
+              },
+              "squadBuffs": {
+                "generationMs": 476950.41839999997,
+                "wastedMs": 77447.45603999999
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 127568.13879,
+                "wastedMs": 12289.08786
+              },
+              "groupBuffs": {
+                "generationMs": 19658.358999999997,
+                "wastedMs": 6178.3414
+              },
+              "squadBuffs": {
+                "generationMs": 26893.168830000002,
+                "wastedMs": 6198.400949999999
+              }
+            }
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "activeTimeMs": 371819,
+            "numFights": 3,
+            "groupSupported": 9,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 39977.254349999996,
+                "wastedMs": 23.929520000000004
+              },
+              "groupBuffs": {
+                "generationMs": 999.05746,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 10624.70688,
+                "wastedMs": 358.94280000000003
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b726",
+        "name": "Vigor",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "activeTimeMs": 630372,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 108649.2977,
+                "wastedMs": 30.05384
+              },
+              "groupBuffs": {
+                "generationMs": 317754.42748,
+                "wastedMs": 8289.96364
+              },
+              "squadBuffs": {
+                "generationMs": 426403.48241999996,
+                "wastedMs": 8335.59417
+              }
+            }
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "activeTimeMs": 740504,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 259345.21614000003,
+                "wastedMs": 5247.578280000001
+              },
+              "groupBuffs": {
+                "generationMs": 340307.60136,
+                "wastedMs": 6679.10116
+              },
+              "squadBuffs": {
+                "generationMs": 652989.4870199999,
+                "wastedMs": 9286.84266
+              }
+            }
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "activeTimeMs": 339348,
+            "numFights": 2,
+            "groupSupported": 10,
+            "squadSupported": 26,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 60984.16546,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 132126.84467999998,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 203322.76811999996,
+                "wastedMs": 4953.410640000001
+              }
+            }
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "activeTimeMs": 740501,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 2549.63143,
+                "wastedMs": 8.02382
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 179496.96494,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 346244.0481000001,
+                "wastedMs": 45478.093510000006
+              },
+              "squadBuffs": {
+                "generationMs": 607169.6419500001,
+                "wastedMs": 45464.087309999995
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b740",
+        "name": "Might",
+        "stacking": true,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "activeTimeMs": 630372,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 324021.75600000005,
+                "wastedMs": 14162.194
+              },
+              "groupBuffs": {
+                "generationMs": 21263.616,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 28512.575999999997,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "activeTimeMs": 538466,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 263983.678,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "activeTimeMs": 740504,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 930495.672,
+                "wastedMs": 175032.397
+              },
+              "groupBuffs": {
+                "generationMs": 1415370.8399999999,
+                "wastedMs": 411522.14
+              },
+              "squadBuffs": {
+                "generationMs": 2463958.6950000003,
+                "wastedMs": 579768.0630000001
+              }
+            }
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 3479662.5949999997,
+                "wastedMs": 394346.84800000006
+              },
+              "groupBuffs": {
+                "generationMs": 5494654.452,
+                "wastedMs": 560200.768
+              },
+              "squadBuffs": {
+                "generationMs": 8306886.276000001,
+                "wastedMs": 923367.7980000001
+              }
+            }
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 1951124.867,
+                "wastedMs": 127013.429
+              },
+              "groupBuffs": {
+                "generationMs": 4719406.6280000005,
+                "wastedMs": 395507.42000000004
+              },
+              "squadBuffs": {
+                "generationMs": 8027960.967,
+                "wastedMs": 577696.311
+              }
+            }
+          },
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 1667834.0669999998,
+                "wastedMs": 375398.481
+              },
+              "groupBuffs": {
+                "generationMs": 1520804.7089999998,
+                "wastedMs": 245051.332
+              },
+              "squadBuffs": {
+                "generationMs": 2171633.082,
+                "wastedMs": 280960.902
+              }
+            }
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "activeTimeMs": 339348,
+            "numFights": 2,
+            "groupSupported": 10,
+            "squadSupported": 26,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 328014.727,
+                "wastedMs": 2456.592
+              },
+              "groupBuffs": {
+                "generationMs": 770100.504,
+                "wastedMs": 26096.256
+              },
+              "squadBuffs": {
+                "generationMs": 1284997.3679999998,
+                "wastedMs": 36174.695999999996
+              }
+            }
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "activeTimeMs": 740514,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 298966.077,
+                "wastedMs": 38972.593
+              },
+              "groupBuffs": {
+                "generationMs": 381671.664,
+                "wastedMs": 36508.381
+              },
+              "squadBuffs": {
+                "generationMs": 434330.802,
+                "wastedMs": 46875.474
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 2513007.6969999997,
+                "wastedMs": 266314.121
+              },
+              "groupBuffs": {
+                "generationMs": 4616618.847,
+                "wastedMs": 588838.351
+              },
+              "squadBuffs": {
+                "generationMs": 5608254.654,
+                "wastedMs": 684453.462
+              }
+            }
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "activeTimeMs": 740501,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 3293661.575,
+                "wastedMs": 502771.228
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 101485.43999999999,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 2758205.1689999998,
+                "wastedMs": 113258.88900000001
+              },
+              "groupBuffs": {
+                "generationMs": 1659970.222,
+                "wastedMs": 92626.686
+              },
+              "squadBuffs": {
+                "generationMs": 4838786.976,
+                "wastedMs": 298393.245
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 1216879.739,
+                "wastedMs": 117595.351
+              },
+              "groupBuffs": {
+                "generationMs": 2266979.248,
+                "wastedMs": 93823.52100000001
+              },
+              "squadBuffs": {
+                "generationMs": 3550781.28,
+                "wastedMs": 163708.25400000002
+              }
+            }
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "activeTimeMs": 371819,
+            "numFights": 3,
+            "groupSupported": 9,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 588820.773,
+                "wastedMs": 9272.689
+              },
+              "groupBuffs": {
+                "generationMs": 151840.58800000002,
+                "wastedMs": 28152.238
+              },
+              "squadBuffs": {
+                "generationMs": 599062.368,
+                "wastedMs": 114452.268
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b719",
+        "name": "Swiftness",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "activeTimeMs": 630372,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 206842.16775999998,
+                "wastedMs": 36189.34266
+              },
+              "groupBuffs": {
+                "generationMs": 337966.62640000007,
+                "wastedMs": 16762.62876
+              },
+              "squadBuffs": {
+                "generationMs": 405884.88162,
+                "wastedMs": 16798.52304
+              }
+            }
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "activeTimeMs": 740504,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 114014.41930000001,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 205483.86808000001,
+                "wastedMs": 34967.807559999994
+              },
+              "squadBuffs": {
+                "generationMs": 231659.17979999998,
+                "wastedMs": 34963.79564999999
+              }
+            }
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 12820.240339999998,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 47308.66104,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 47308.661040000006,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 158580.85056,
+                "wastedMs": 33959.85419
+              },
+              "groupBuffs": {
+                "generationMs": 315191.32404,
+                "wastedMs": 24504.74628
+              },
+              "squadBuffs": {
+                "generationMs": 443848.05663000006,
+                "wastedMs": 88763.50875000001
+              }
+            }
+          },
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 39658.17222,
+                "wastedMs": 758.25099
+              },
+              "groupBuffs": {
+                "generationMs": 11845.112399999998,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 13137.306480000001,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "activeTimeMs": 339348,
+            "numFights": 2,
+            "groupSupported": 10,
+            "squadSupported": 26,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 67730.12818,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 125140.90636000001,
+                "wastedMs": 27207.86424
+              },
+              "squadBuffs": {
+                "generationMs": 178029.18396,
+                "wastedMs": 27222.362160000004
+              }
+            }
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "activeTimeMs": 740514,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 25000.47181,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 39999.76128,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 39999.76128,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 25230.06938,
+                "wastedMs": 8.97357
+              },
+              "groupBuffs": {
+                "generationMs": 81178.82046999999,
+                "wastedMs": 28757.370880000002
+              },
+              "squadBuffs": {
+                "generationMs": 81190.92717,
+                "wastedMs": 28765.394699999997
+              }
+            }
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "activeTimeMs": 740501,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 180369.49396,
+                "wastedMs": 35039.001220000006
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 498305.49852,
+                "wastedMs": 157333.76498
+              },
+              "groupBuffs": {
+                "generationMs": 710743.1087100001,
+                "wastedMs": 171284.48554
+              },
+              "squadBuffs": {
+                "generationMs": 2875770.49602,
+                "wastedMs": 482017.37829
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 139353.48101,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 349872.99755,
+                "wastedMs": 52597.476200000005
+              },
+              "squadBuffs": {
+                "generationMs": 697816.88316,
+                "wastedMs": 86341.88577
+              }
+            }
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "activeTimeMs": 371819,
+            "numFights": 3,
+            "groupSupported": 9,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 51721.05844,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 40722.84496,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 85298.34263999999,
+                "wastedMs": 5420.03628
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b717",
+        "name": "Protection",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "activeTimeMs": 630372,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 88781.5295,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 245945.92552000002,
+                "wastedMs": 24920.3072
+              },
+              "squadBuffs": {
+                "generationMs": 316181.48780999996,
+                "wastedMs": 34930.657470000006
+              }
+            }
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "activeTimeMs": 538466,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 57360.4929,
+                "wastedMs": 8638.79662
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "activeTimeMs": 740504,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 58880.15367,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 71296.0638,
+                "wastedMs": 2712.05116
+              },
+              "squadBuffs": {
+                "generationMs": 147530.14755,
+                "wastedMs": 17873.05905
+              }
+            }
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 172507.10416000002,
+                "wastedMs": 8188.308309999999
+              },
+              "groupBuffs": {
+                "generationMs": 347613.54987999995,
+                "wastedMs": 24500.287800000002
+              },
+              "squadBuffs": {
+                "generationMs": 619621.0492799999,
+                "wastedMs": 34778.80122
+              }
+            }
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 27983.072249999997,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 51047.542839999995,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 103627.6353,
+                "wastedMs": 8244.475050000001
+              }
+            }
+          },
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 6990.41103,
+                "wastedMs": 8.97357
+              },
+              "groupBuffs": {
+                "generationMs": 11988.68952,
+                "wastedMs": 11.964760000000002
+              },
+              "squadBuffs": {
+                "generationMs": 25987.458720000002,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "activeTimeMs": 339348,
+            "numFights": 2,
+            "groupSupported": 10,
+            "squadSupported": 26,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 15245.9873,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 35573.49556,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 60994.30308,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "activeTimeMs": 740514,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 3000.1635699999997,
+                "wastedMs": 3000.90868
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 173104.42249,
+                "wastedMs": 21574.854059999998
+              },
+              "groupBuffs": {
+                "generationMs": 405312.08659,
+                "wastedMs": 17575.807050000003
+              },
+              "squadBuffs": {
+                "generationMs": 605230.13436,
+                "wastedMs": 26201.78103
+              }
+            }
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "activeTimeMs": 740501,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 56501.61395,
+                "wastedMs": 3454.2545099999998
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 295031.26202,
+                "wastedMs": 6071.1659500000005
+              },
+              "groupBuffs": {
+                "generationMs": 282326.38827,
+                "wastedMs": 14550.407420000003
+              },
+              "squadBuffs": {
+                "generationMs": 778016.8385399999,
+                "wastedMs": 54372.22965
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 244653.97229,
+                "wastedMs": 24949.92635
+              },
+              "groupBuffs": {
+                "generationMs": 440759.57299,
+                "wastedMs": 41200.13232
+              },
+              "squadBuffs": {
+                "generationMs": 845999.3404499999,
+                "wastedMs": 55950.63996000001
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1187",
+        "name": "Quickness",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "activeTimeMs": 538466,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 69620.05942,
+                "wastedMs": 2378.06702
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 197855.75782,
+                "wastedMs": 2082.18129
+              },
+              "groupBuffs": {
+                "generationMs": 165359.32484000002,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 261471.19548,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 136643.59451,
+                "wastedMs": 45.08076
+              },
+              "groupBuffs": {
+                "generationMs": 174836.41332,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 340821.51318,
+                "wastedMs": 45.55956000000001
+              }
+            }
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "activeTimeMs": 339348,
+            "numFights": 2,
+            "groupSupported": 10,
+            "squadSupported": 26,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 10163.95549,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "activeTimeMs": 740514,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 2999.86128,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 150448.11670999997,
+                "wastedMs": 1484.0953499999998
+              },
+              "groupBuffs": {
+                "generationMs": 121767.05529,
+                "wastedMs": 4111.20469
+              },
+              "squadBuffs": {
+                "generationMs": 148664.21538,
+                "wastedMs": 4108.59075
+              }
+            }
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "activeTimeMs": 740501,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 286554.2723,
+                "wastedMs": 18623.215249999997
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 170659.00945,
+                "wastedMs": 3942.38842
+              },
+              "groupBuffs": {
+                "generationMs": 83756.80069,
+                "wastedMs": 10390.95393
+              },
+              "squadBuffs": {
+                "generationMs": 151729.10991,
+                "wastedMs": 15838.542209999998
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 15522.079790000002,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b743",
+        "name": "Aegis",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 153028.93195,
+                "wastedMs": 19327519749.189423
+              },
+              "groupBuffs": {
+                "generationMs": 190433.74604,
+                "wastedMs": 686819.17508
+              },
+              "squadBuffs": {
+                "generationMs": 255519.90453000003,
+                "wastedMs": 975397.8021299999
+              }
+            }
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 152649.80422,
+                "wastedMs": 19327366994.25264
+              },
+              "groupBuffs": {
+                "generationMs": 91120.79908000001,
+                "wastedMs": 250883.41268
+              },
+              "squadBuffs": {
+                "generationMs": 116576.96985,
+                "wastedMs": 508118.19078
+              }
+            }
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "activeTimeMs": 339348,
+            "numFights": 2,
+            "groupSupported": 10,
+            "squadSupported": 26,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 2800.7874100000004,
+                "wastedMs": 12445.19989
+              },
+              "groupBuffs": {
+                "generationMs": 8916.30692,
+                "wastedMs": 26658.79952
+              },
+              "squadBuffs": {
+                "generationMs": 9251.320199999998,
+                "wastedMs": 51742.982879999996
+              }
+            }
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "activeTimeMs": 740514,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 100.29775000000001,
+                "wastedMs": 4902.55402
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 135503.81251000002,
+                "wastedMs": 21475062969.09398
+              },
+              "groupBuffs": {
+                "generationMs": 162127.04443,
+                "wastedMs": 682851.59571
+              },
+              "squadBuffs": {
+                "generationMs": 253913.64216,
+                "wastedMs": 887905.78923
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 320536.13301999995,
+                "wastedMs": 25771102528.64502
+              },
+              "groupBuffs": {
+                "generationMs": 360647.80514,
+                "wastedMs": 2100403.7696
+              },
+              "squadBuffs": {
+                "generationMs": 1118591.61669,
+                "wastedMs": 5795132.05611
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 13184.775109999999,
+                "wastedMs": 16163.98539
+              },
+              "groupBuffs": {
+                "generationMs": 7638.676640000001,
+                "wastedMs": 33771.58221
+              },
+              "squadBuffs": {
+                "generationMs": 24936.68022,
+                "wastedMs": 68304.67374
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b718",
+        "name": "Regeneration",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "activeTimeMs": 630372,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 432217.92299999995,
+                "wastedMs": 107732.60807
+              },
+              "groupBuffs": {
+                "generationMs": 1199923.44008,
+                "wastedMs": 105863.44468
+              },
+              "squadBuffs": {
+                "generationMs": 1710024.09504,
+                "wastedMs": 110657.44347
+              }
+            }
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "activeTimeMs": 740504,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 115860.20465,
+                "wastedMs": 101409.22078
+              },
+              "groupBuffs": {
+                "generationMs": 100753.66368000001,
+                "wastedMs": 150028.01747999998
+              },
+              "squadBuffs": {
+                "generationMs": 261861.31626,
+                "wastedMs": 288585.89646
+              }
+            }
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 37327.117750000005,
+                "wastedMs": 30553.454510000003
+              },
+              "groupBuffs": {
+                "generationMs": 56762.07424,
+                "wastedMs": 74256.96484
+              },
+              "squadBuffs": {
+                "generationMs": 149182.47978,
+                "wastedMs": 128916.23319
+              }
+            }
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 7401.9739500000005,
+                "wastedMs": 473.4053799999999
+              },
+              "groupBuffs": {
+                "generationMs": 176.52403999999999,
+                "wastedMs": 7702.8672
+              },
+              "squadBuffs": {
+                "generationMs": 3309.8257500000004,
+                "wastedMs": 20340.3837
+              }
+            }
+          },
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 20110.05613,
+                "wastedMs": 11892.674930000001
+              },
+              "groupBuffs": {
+                "generationMs": 35036.77446,
+                "wastedMs": 28955.91697
+              },
+              "squadBuffs": {
+                "generationMs": 55057.604309999995,
+                "wastedMs": 56965.12362
+              }
+            }
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "activeTimeMs": 339348,
+            "numFights": 2,
+            "groupSupported": 10,
+            "squadSupported": 26,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 62842.894519999994,
+                "wastedMs": 28588.37769
+              },
+              "groupBuffs": {
+                "generationMs": 153892.58615999998,
+                "wastedMs": 46640.06948
+              },
+              "squadBuffs": {
+                "generationMs": 216250.87188,
+                "wastedMs": 92670.11208
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 21432.9842,
+                "wastedMs": 42568.39872
+              },
+              "groupBuffs": {
+                "generationMs": 123235.79482000001,
+                "wastedMs": 131715.6827
+              },
+              "squadBuffs": {
+                "generationMs": 162984.72297,
+                "wastedMs": 182845.20971999998
+              }
+            }
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "activeTimeMs": 740501,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 3394.0758600000004,
+                "wastedMs": 2163.6510900000003
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 138967.54157,
+                "wastedMs": 25247.19497
+              },
+              "groupBuffs": {
+                "generationMs": 84522.77478,
+                "wastedMs": 26164.224840000003
+              },
+              "squadBuffs": {
+                "generationMs": 336439.94901,
+                "wastedMs": 162789.97136999998
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 394385.53497,
+                "wastedMs": 56270.802299999996
+              },
+              "groupBuffs": {
+                "generationMs": 932511.7938100001,
+                "wastedMs": 161881.37983
+              },
+              "squadBuffs": {
+                "generationMs": 1670583.30228,
+                "wastedMs": 437795.31276
+              }
+            }
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "activeTimeMs": 371819,
+            "numFights": 3,
+            "groupSupported": 9,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 3999.22103,
+                "wastedMs": 3999.22103
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 3517.63944,
+                "wastedMs": 4450.890719999999
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b725",
+        "name": "Fury",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "activeTimeMs": 538466,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 38409.49256,
+                "wastedMs": 8022.37158
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "activeTimeMs": 740504,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 134528.90892,
+                "wastedMs": 16211.134729999998
+              },
+              "groupBuffs": {
+                "generationMs": 162701.79136000003,
+                "wastedMs": 36849.2896
+              },
+              "squadBuffs": {
+                "generationMs": 253930.69899,
+                "wastedMs": 39878.281650000004
+              }
+            }
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 397947.3877999999,
+                "wastedMs": 58708.3237
+              },
+              "groupBuffs": {
+                "generationMs": 924731.11328,
+                "wastedMs": 162790.69468
+              },
+              "squadBuffs": {
+                "generationMs": 1492143.50829,
+                "wastedMs": 208695.57875999997
+              }
+            }
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 60708.43127,
+                "wastedMs": 8336.74898
+              },
+              "groupBuffs": {
+                "generationMs": 87248.48120000001,
+                "wastedMs": 7093.05688
+              },
+              "squadBuffs": {
+                "generationMs": 239539.55874,
+                "wastedMs": 24492.71055
+              }
+            }
+          },
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 187516.36226000002,
+                "wastedMs": 11.964760000000002
+              },
+              "groupBuffs": {
+                "generationMs": 373945.07956,
+                "wastedMs": 48995.50786
+              },
+              "squadBuffs": {
+                "generationMs": 529479.5477100001,
+                "wastedMs": 58331.63592
+              }
+            }
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "activeTimeMs": 740514,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 205616.07146,
+                "wastedMs": 17127.50778
+              },
+              "groupBuffs": {
+                "generationMs": 301003.7493,
+                "wastedMs": 32248.764049999998
+              },
+              "squadBuffs": {
+                "generationMs": 401215.54299,
+                "wastedMs": 35999.970870000005
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 164294.36422,
+                "wastedMs": 14031.76183
+              },
+              "groupBuffs": {
+                "generationMs": 503613.88983999996,
+                "wastedMs": 70613.10676
+              },
+              "squadBuffs": {
+                "generationMs": 664989.56433,
+                "wastedMs": 70625.21346
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 131377.1945,
+                "wastedMs": 1119.3228900000001
+              },
+              "groupBuffs": {
+                "generationMs": 188554.69301,
+                "wastedMs": 17608.27299
+              },
+              "squadBuffs": {
+                "generationMs": 351405.98349,
+                "wastedMs": 54972.57744000001
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 22410.52926,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "activeTimeMs": 371819,
+            "numFights": 3,
+            "groupSupported": 9,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 147786.93493999998,
+                "wastedMs": 17.94714
+              },
+              "groupBuffs": {
+                "generationMs": 110902.34684,
+                "wastedMs": 4059.8533800000005
+              },
+              "squadBuffs": {
+                "generationMs": 296409.62292,
+                "wastedMs": 17145.73476
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b26980",
+        "name": "Resistance",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "activeTimeMs": 740509,
+            "numFights": 3,
+            "groupSupported": 15,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 67990.73407,
+                "wastedMs": 3767.1834899999994
+              },
+              "groupBuffs": {
+                "generationMs": 185250.71644,
+                "wastedMs": 1813.38332
+              },
+              "squadBuffs": {
+                "generationMs": 313552.22172000003,
+                "wastedMs": 11915.3727
+              }
+            }
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 51960.75799,
+                "wastedMs": 37.13065
+              },
+              "groupBuffs": {
+                "generationMs": 158865.90988,
+                "wastedMs": 5140.84797
+              },
+              "squadBuffs": {
+                "generationMs": 241652.42865000002,
+                "wastedMs": 6337.8464699999995
+              }
+            }
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "activeTimeMs": 740510,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 100787.60574999999,
+                "wastedMs": 3737.19573
+              },
+              "groupBuffs": {
+                "generationMs": 167002.22147,
+                "wastedMs": 830.0924299999999
+              },
+              "squadBuffs": {
+                "generationMs": 385138.23675,
+                "wastedMs": 6315.448649999999
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b30328",
+        "name": "Alacrity",
+        "stacking": false,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "activeTimeMs": 740514,
+            "numFights": 3,
+            "groupSupported": 18,
+            "squadSupported": 42,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 2996.89677,
+                "wastedMs": 4.01191
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          },
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "activeTimeMs": 740499,
+            "numFights": 5,
+            "groupSupported": 25,
+            "squadSupported": 74,
+            "categories": {
+              "selfBuffs": {
+                "generationMs": 5186.72346,
+                "wastedMs": 0
+              },
+              "groupBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              },
+              "squadBuffs": {
+                "generationMs": 0,
+                "wastedMs": 0
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "specialTables": [
+      {
+        "id": "30845",
+        "name": "Death's Carapace",
+        "total": 506,
+        "rows": [
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "total": 506,
+            "duration": 740.582,
+            "perSecond": 0.6832464197077434
+          }
+        ]
+      },
+      {
+        "id": "71132",
+        "name": "Relic of the Monk",
+        "total": 471,
+        "rows": [
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "total": 471,
+            "duration": 1141.773,
+            "perSecond": 0.41251632329718785
+          }
+        ]
+      },
+      {
+        "id": "77333",
+        "name": "Luminary's Blessing",
+        "total": 397,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 180,
+            "duration": 9065.287,
+            "perSecond": 0.01985596264078567
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 149,
+            "duration": 7624.394999999999,
+            "perSecond": 0.01954253419451642
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 68,
+            "duration": 6402.0779999999995,
+            "perSecond": 0.010621551315057393
+          }
+        ]
+      },
+      {
+        "id": "62733",
+        "name": "Elemental Empowerment",
+        "total": 327,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 217,
+            "duration": 740.582,
+            "perSecond": 0.29301279264146307
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 110,
+            "duration": 740.582,
+            "perSecond": 0.14853183037124856
+          }
+        ]
+      },
+      {
+        "id": "9374",
+        "name": "Superior Sigil of Corruption",
+        "total": 242,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 127,
+            "duration": 740.582,
+            "perSecond": 0.17148674961044152
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 115,
+            "duration": 740.582,
+            "perSecond": 0.1552832772063053
+          }
+        ]
+      },
+      {
+        "id": "9398",
+        "name": "Superior Sigil of Benevolence",
+        "total": 215,
+        "rows": [
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "total": 140,
+            "duration": 1542.964,
+            "perSecond": 0.09073445653949153
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "total": 75,
+            "duration": 339.391,
+            "perSecond": 0.22098405673691995
+          }
+        ]
+      },
+      {
+        "id": "25526",
+        "name": "Superior Sigil of Cruelty",
+        "total": 200,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 100,
+            "duration": 740.582,
+            "perSecond": 0.13502893670113505
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 100,
+            "duration": 740.582,
+            "perSecond": 0.13502893670113505
+          }
+        ]
+      },
+      {
+        "id": "46953",
+        "name": "Superior Sigil of the Stars",
+        "total": 145,
+        "rows": [
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "total": 130,
+            "duration": 740.582,
+            "perSecond": 0.17553761771147558
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 15,
+            "duration": 40.272,
+            "perSecond": 0.37246722288438616
+          }
+        ]
+      },
+      {
+        "id": "62939",
+        "name": "Empowering Auras",
+        "total": 111,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 73,
+            "duration": 740.582,
+            "perSecond": 0.09857112379182859
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 38,
+            "duration": 339.391,
+            "perSecond": 0.11196525541337277
+          }
+        ]
+      },
+      {
+        "id": "77821",
+        "name": "Radiant Justice",
+        "total": 108,
+        "rows": [
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 44,
+            "duration": 740.582,
+            "perSecond": 0.059412732148499424
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 32,
+            "duration": 740.582,
+            "perSecond": 0.04320925974436322
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 32,
+            "duration": 1542.964,
+            "perSecond": 0.02073930435188378
+          }
+        ]
+      },
+      {
+        "id": "9386",
+        "name": "Superior Sigil of Life",
+        "total": 105,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "total": 105,
+            "duration": 740.582,
+            "perSecond": 0.1417803835361918
+          }
+        ]
+      },
+      {
+        "id": "13342",
+        "name": "Persisting Flames",
+        "total": 93,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 62,
+            "duration": 740.582,
+            "perSecond": 0.08371794075470373
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 31,
+            "duration": 339.391,
+            "perSecond": 0.09134007678459358
+          }
+        ]
+      },
+      {
+        "id": "77265",
+        "name": "Effulgent Stance (Stack Damage)",
+        "total": 91,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 91,
+            "duration": 740.582,
+            "perSecond": 0.1228763323980329
+          }
+        ]
+      },
+      {
+        "id": "70913",
+        "name": "Relic of the Brawler",
+        "total": 88,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 45,
+            "duration": 740.582,
+            "perSecond": 0.06076302151551077
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 43,
+            "duration": 740.582,
+            "perSecond": 0.058062442781488074
+          }
+        ]
+      },
+      {
+        "id": "59528",
+        "name": "Explosive Temper",
+        "total": 75,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 75,
+            "duration": 740.582,
+            "perSecond": 0.10127170252585128
+          }
+        ]
+      },
+      {
+        "id": "9286",
+        "name": "Superior Sigil of Bloodlust",
+        "total": 75,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 75,
+            "duration": 740.582,
+            "perSecond": 0.10127170252585128
+          }
+        ]
+      },
+      {
+        "id": "9123",
+        "name": "Shield of Wrath",
+        "total": 51,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 36,
+            "duration": 700.31,
+            "perSecond": 0.051405806000199915
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 15,
+            "duration": 700.31,
+            "perSecond": 0.021419085833416632
+          }
+        ]
+      },
+      {
+        "id": "59592",
+        "name": "Inspiring Virtue",
+        "total": 49,
+        "rows": [
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 32,
+            "duration": 740.582,
+            "perSecond": 0.04320925974436322
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 17,
+            "duration": 740.582,
+            "perSecond": 0.022954919239192958
+          }
+        ]
+      },
+      {
+        "id": "5640",
+        "name": "Arcane Shield",
+        "total": 47,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 26,
+            "duration": 700.31,
+            "perSecond": 0.03712641544458883
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 21,
+            "duration": 339.391,
+            "perSecond": 0.06187553588633758
+          }
+        ]
+      },
+      {
+        "id": "77893",
+        "name": "Radiant Courage",
+        "total": 47,
+        "rows": [
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 20,
+            "duration": 1542.964,
+            "perSecond": 0.012962065219927361
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 14,
+            "duration": 740.582,
+            "perSecond": 0.018904051138158906
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 13,
+            "duration": 740.582,
+            "perSecond": 0.017553761771147557
+          }
+        ]
+      },
+      {
+        "id": "59521",
+        "name": "Greater Call of the Mists (WvW)",
+        "total": 43,
+        "rows": [
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "total": 5,
+            "duration": 1542.964,
+            "perSecond": 0.0032405163049818403
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 5,
+            "duration": 1542.964,
+            "perSecond": 0.0032405163049818403
+          },
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "total": 4,
+            "duration": 740.582,
+            "perSecond": 0.005401157468045402
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "total": 2,
+            "duration": 339.391,
+            "perSecond": 0.005892908179651198
+          }
+        ]
+      },
+      {
+        "id": "45123",
+        "name": "Quickfire",
+        "total": 39,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 39,
+            "duration": 740.582,
+            "perSecond": 0.05266128531344267
+          }
+        ]
+      },
+      {
+        "id": "76736",
+        "name": "Valorous Stance",
+        "total": 38,
+        "rows": [
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 14,
+            "duration": 1141.773,
+            "perSecond": 0.012261631690362271
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 12,
+            "duration": 740.582,
+            "perSecond": 0.016203472404136207
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 12,
+            "duration": 740.582,
+            "perSecond": 0.016203472404136207
+          }
+        ]
+      },
+      {
+        "id": "77855",
+        "name": "Radiant Resolve",
+        "total": 32,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 17,
+            "duration": 740.582,
+            "perSecond": 0.022954919239192958
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 15,
+            "duration": 740.582,
+            "perSecond": 0.02025434050517026
+          }
+        ]
+      },
+      {
+        "id": "69855",
+        "name": "Relic of Fireworks",
+        "total": 31,
+        "rows": [
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "total": 31,
+            "duration": 740.582,
+            "perSecond": 0.04185897037735187
+          }
+        ]
+      },
+      {
+        "id": "76977",
+        "name": "Counterattack (Luminary Shield)",
+        "total": 30,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 20,
+            "duration": 740.582,
+            "perSecond": 0.02700578734022701
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 10,
+            "duration": 740.582,
+            "perSecond": 0.013502893670113505
+          }
+        ]
+      },
+      {
+        "id": "29446",
+        "name": "Reaper's Shroud",
+        "total": 30,
+        "rows": [
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "total": 24,
+            "duration": 740.582,
+            "perSecond": 0.032406944808272414
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "total": 6,
+            "duration": 700.31,
+            "perSecond": 0.008567634333366653
+          }
+        ]
+      },
+      {
+        "id": "53489",
+        "name": "Soul Barbs",
+        "total": 30,
+        "rows": [
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "total": 30,
+            "duration": 740.582,
+            "perSecond": 0.04050868101034052
+          }
+        ]
+      },
+      {
+        "id": "73025",
+        "name": "Symbol of Luminance",
+        "total": 30,
+        "rows": [
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 17,
+            "duration": 740.582,
+            "perSecond": 0.022954919239192958
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 13,
+            "duration": 740.582,
+            "perSecond": 0.017553761771147557
+          }
+        ]
+      },
+      {
+        "id": "9103",
+        "name": "Zealot's Flame",
+        "total": 29,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 29,
+            "duration": 740.582,
+            "perSecond": 0.03915839164332917
+          }
+        ]
+      },
+      {
+        "id": "17681",
+        "name": "Guild Swiftness Banner Boost",
+        "total": 28,
+        "rows": [
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 5,
+            "duration": 1542.964,
+            "perSecond": 0.0032405163049818403
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "total": 2,
+            "duration": 339.391,
+            "perSecond": 0.005892908179651198
+          }
+        ]
+      },
+      {
+        "id": "5575",
+        "name": "Air Attunement",
+        "total": 27,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 18,
+            "duration": 740.582,
+            "perSecond": 0.02430520860620431
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 9,
+            "duration": 740.582,
+            "perSecond": 0.012152604303102155
+          }
+        ]
+      },
+      {
+        "id": "59601",
+        "name": "Big Boomer",
+        "total": 26,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 26,
+            "duration": 740.582,
+            "perSecond": 0.03510752354229511
+          }
+        ]
+      },
+      {
+        "id": "5585",
+        "name": "Fire Attunement",
+        "total": 24,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 16,
+            "duration": 740.582,
+            "perSecond": 0.02160462987218161
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 7,
+            "duration": 339.391,
+            "perSecond": 0.020625178628779193
+          },
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          }
+        ]
+      },
+      {
+        "id": "77142",
+        "name": "Radiant Forge",
+        "total": 23,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 14,
+            "duration": 740.582,
+            "perSecond": 0.018904051138158906
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 9,
+            "duration": 740.582,
+            "perSecond": 0.012152604303102155
+          }
+        ]
+      },
+      {
+        "id": "77169",
+        "name": "Empowered Armaments",
+        "total": 22,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 13,
+            "duration": 740.582,
+            "perSecond": 0.017553761771147557
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 9,
+            "duration": 740.582,
+            "perSecond": 0.012152604303102155
+          }
+        ]
+      },
+      {
+        "id": "59579",
+        "name": "Explosive Entrance",
+        "total": 22,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 22,
+            "duration": 740.582,
+            "perSecond": 0.029706366074249712
+          }
+        ]
+      },
+      {
+        "id": "30129",
+        "name": "Infusing Terror",
+        "total": 22,
+        "rows": [
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "total": 19,
+            "duration": 740.582,
+            "perSecond": 0.02565549797321566
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "total": 3,
+            "duration": 299.119,
+            "perSecond": 0.010029453160782163
+          }
+        ]
+      },
+      {
+        "id": "73101",
+        "name": "Illuminated",
+        "total": 21,
+        "rows": [
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 11,
+            "duration": 740.582,
+            "perSecond": 0.014853183037124856
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 10,
+            "duration": 700.31,
+            "perSecond": 0.014279390555611088
+          }
+        ]
+      },
+      {
+        "id": "76751",
+        "name": "Resolute Stance",
+        "total": 21,
+        "rows": [
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 9,
+            "duration": 1101.501,
+            "perSecond": 0.008170668932665517
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 7,
+            "duration": 700.31,
+            "perSecond": 0.009995573388927762
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 5,
+            "duration": 700.31,
+            "perSecond": 0.007139695277805544
+          }
+        ]
+      },
+      {
+        "id": "43410",
+        "name": "Path Uses",
+        "total": 20,
+        "rows": [
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 20,
+            "duration": 299.119,
+            "perSecond": 0.06686302107188108
+          }
+        ]
+      },
+      {
+        "id": "40530",
+        "name": "Tome of Justice",
+        "total": 20,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 20,
+            "duration": 740.582,
+            "perSecond": 0.02700578734022701
+          }
+        ]
+      },
+      {
+        "id": "5586",
+        "name": "Water Attunement",
+        "total": 20,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 10,
+            "duration": 700.31,
+            "perSecond": 0.014279390555611088
+          },
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "total": 6,
+            "duration": 740.582,
+            "perSecond": 0.008101736202068104
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 4,
+            "duration": 299.119,
+            "perSecond": 0.013372604214376216
+          }
+        ]
+      },
+      {
+        "id": "5943",
+        "name": "Med Kit",
+        "total": 19,
+        "rows": [
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "total": 16,
+            "duration": 1141.773,
+            "perSecond": 0.014013293360414025
+          },
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "total": 3,
+            "duration": 339.391,
+            "perSecond": 0.008839362269476798
+          }
+        ]
+      },
+      {
+        "id": "62805",
+        "name": "Relentless Fire",
+        "total": 18,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 9,
+            "duration": 700.31,
+            "perSecond": 0.012851451500049979
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 9,
+            "duration": 339.391,
+            "perSecond": 0.026518086808430392
+          }
+        ]
+      },
+      {
+        "id": "68607",
+        "name": "Dormant Justice",
+        "total": 17,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 17,
+            "duration": 740.582,
+            "perSecond": 0.022954919239192958
+          }
+        ]
+      },
+      {
+        "id": "5580",
+        "name": "Earth Attunement",
+        "total": 17,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 12,
+            "duration": 740.582,
+            "perSecond": 0.016203472404136207
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 5,
+            "duration": 339.391,
+            "perSecond": 0.014732270449127996
+          }
+        ]
+      },
+      {
+        "id": "77095",
+        "name": "Effulgent Stance (Stack Gain)",
+        "total": 16,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 15,
+            "duration": 740.582,
+            "perSecond": 0.02025434050517026
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 1,
+            "duration": 299.119,
+            "perSecond": 0.003343151053594054
+          }
+        ]
+      },
+      {
+        "id": "5588",
+        "name": "Ride the Lightning",
+        "total": 16,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 9,
+            "duration": 740.582,
+            "perSecond": 0.012152604303102155
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 7,
+            "duration": 339.391,
+            "perSecond": 0.020625178628779193
+          }
+        ]
+      },
+      {
+        "id": "77162",
+        "name": "Restorative Glow (Personal)",
+        "total": 15,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 9,
+            "duration": 700.31,
+            "perSecond": 0.012851451500049979
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 6,
+            "duration": 700.31,
+            "perSecond": 0.008567634333366653
+          }
+        ]
+      },
+      {
+        "id": "43930",
+        "name": "Superior Sigil of Severance",
+        "total": 15,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 12,
+            "duration": 740.582,
+            "perSecond": 0.016203472404136207
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 3,
+            "duration": 441.46299999999997,
+            "perSecond": 0.006795586493092287
+          }
+        ]
+      },
+      {
+        "id": "73129",
+        "name": "Lightning Rod Charges",
+        "total": 14,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 14,
+            "duration": 401.191,
+            "perSecond": 0.03489609687156492
+          }
+        ]
+      },
+      {
+        "id": "77143",
+        "name": "Piercing Stance",
+        "total": 14,
+        "rows": [
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 14,
+            "duration": 740.582,
+            "perSecond": 0.018904051138158906
+          }
+        ]
+      },
+      {
+        "id": "788",
+        "name": "Determined (788)",
+        "total": 11,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 3,
+            "duration": 401.191,
+            "perSecond": 0.007477735043906768
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 2,
+            "duration": 401.191,
+            "perSecond": 0.004985156695937846
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          }
+        ]
+      },
+      {
+        "id": "848",
+        "name": "Resurrection",
+        "total": 11,
+        "rows": [
+          {
+            "account": "undiee.3146",
+            "profession": "Catalyst",
+            "total": 3,
+            "duration": 401.191,
+            "perSecond": 0.007477735043906768
+          },
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 2,
+            "duration": 401.191,
+            "perSecond": 0.004985156695937846
+          },
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          },
+          {
+            "account": "Zietlogik.6208",
+            "profession": "Reaper",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          }
+        ]
+      },
+      {
+        "id": "73090",
+        "name": "Conduit Surge",
+        "total": 9,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 9,
+            "duration": 740.582,
+            "perSecond": 0.012152604303102155
+          }
+        ]
+      },
+      {
+        "id": "76858",
+        "name": "Radiant Armaments (Staff Lingering)",
+        "total": 9,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 5,
+            "duration": 700.31,
+            "perSecond": 0.007139695277805544
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 4,
+            "duration": 700.31,
+            "perSecond": 0.005711756222244435
+          }
+        ]
+      },
+      {
+        "id": "77360",
+        "name": "Radiant Armaments (Hammer Lingering)",
+        "total": 8,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 4,
+            "duration": 700.31,
+            "perSecond": 0.005711756222244435
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 3,
+            "duration": 339.391,
+            "perSecond": 0.008839362269476798
+          },
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 1,
+            "duration": 40.272,
+            "perSecond": 0.024831148192292412
+          }
+        ]
+      },
+      {
+        "id": "-51",
+        "name": "Sand Shade",
+        "total": 8,
+        "rows": [
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 8,
+            "duration": 441.46299999999997,
+            "perSecond": 0.018121563981579433
+          }
+        ]
+      },
+      {
+        "id": "25179",
+        "name": "Utility Primer",
+        "total": 8,
+        "rows": [
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 5,
+            "duration": 1542.964,
+            "perSecond": 0.0032405163049818403
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          }
+        ]
+      },
+      {
+        "id": "46832",
+        "name": "Plague Sending",
+        "total": 6,
+        "rows": [
+          {
+            "account": "Grimmster.6924",
+            "profession": "Reaper",
+            "total": 6,
+            "duration": 700.31,
+            "perSecond": 0.008567634333366653
+          }
+        ]
+      },
+      {
+        "id": "9441",
+        "name": "Superior Sigil of Doom",
+        "total": 6,
+        "rows": [
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 6,
+            "duration": 700.31,
+            "perSecond": 0.008567634333366653
+          }
+        ]
+      },
+      {
+        "id": "43508",
+        "name": "Tome of Courage",
+        "total": 6,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 6,
+            "duration": 740.582,
+            "perSecond": 0.008101736202068104
+          }
+        ]
+      },
+      {
+        "id": "76885",
+        "name": "Willing Host",
+        "total": 6,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 6,
+            "duration": 740.582,
+            "perSecond": 0.008101736202068104
+          }
+        ]
+      },
+      {
+        "id": "34671",
+        "name": "Compact Quality Maintenance Oil",
+        "total": 5,
+        "rows": [
+          {
+            "account": "pinguinox.9528",
+            "profession": "Scrapper",
+            "total": 5,
+            "duration": 1542.964,
+            "perSecond": 0.0032405163049818403
+          }
+        ]
+      },
+      {
+        "id": "77052",
+        "name": "Plasmatic State",
+        "total": 5,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 5,
+            "duration": 740.582,
+            "perSecond": 0.006751446835056752
+          }
+        ]
+      },
+      {
+        "id": "18704",
+        "name": "Potion Of Karka Toughness",
+        "total": 5,
+        "rows": [
+          {
+            "account": "Shanhana Miko.8702",
+            "profession": "Luminary",
+            "total": 5,
+            "duration": 1542.964,
+            "perSecond": 0.0032405163049818403
+          }
+        ]
+      },
+      {
+        "id": "76888",
+        "name": "Rapacious Strain",
+        "total": 5,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 5,
+            "duration": 740.582,
+            "perSecond": 0.006751446835056752
+          }
+        ]
+      },
+      {
+        "id": "9963",
+        "name": "Superior Sharpening Stone",
+        "total": 5,
+        "rows": [
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          },
+          {
+            "account": "Wag Z.8294",
+            "profession": "Catalyst",
+            "total": 2,
+            "duration": 441.46299999999997,
+            "perSecond": 0.004530390995394858
+          }
+        ]
+      },
+      {
+        "id": "77283",
+        "name": "Thorns",
+        "total": 5,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 5,
+            "duration": 740.582,
+            "perSecond": 0.006751446835056752
+          }
+        ]
+      },
+      {
+        "id": "13814",
+        "name": "Vampiric Strikes (Player)",
+        "total": 5,
+        "rows": [
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 5,
+            "duration": 740.582,
+            "perSecond": 0.006751446835056752
+          }
+        ]
+      },
+      {
+        "id": "76667",
+        "name": "Berserker Strain",
+        "total": 4,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 4,
+            "duration": 441.46299999999997,
+            "perSecond": 0.009060781990789716
+          }
+        ]
+      },
+      {
+        "id": "762",
+        "name": "Determined (762)",
+        "total": 4,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "total": 4,
+            "duration": 401.191,
+            "perSecond": 0.009970313391875691
+          }
+        ]
+      },
+      {
+        "id": "76690",
+        "name": "Radiant Armaments (Sword Lingering)",
+        "total": 4,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 2,
+            "duration": 339.391,
+            "perSecond": 0.005892908179651198
+          },
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 2,
+            "duration": 401.191,
+            "perSecond": 0.004985156695937846
+          }
+        ]
+      },
+      {
+        "id": "14712",
+        "name": "Siege Deployment Blocked",
+        "total": 4,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "total": 4,
+            "duration": 401.191,
+            "perSecond": 0.009970313391875691
+          }
+        ]
+      },
+      {
+        "id": "76871",
+        "name": "Titanic Strain",
+        "total": 4,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 4,
+            "duration": 441.46299999999997,
+            "perSecond": 0.009060781990789716
+          }
+        ]
+      },
+      {
+        "id": "46298",
+        "name": "Tome of Resolve",
+        "total": 4,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 4,
+            "duration": 740.582,
+            "perSecond": 0.005401157468045402
+          }
+        ]
+      },
+      {
+        "id": "40052",
+        "name": "Desert / Sandstorm Shroud",
+        "total": 3,
+        "rows": [
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 3,
+            "duration": 441.46299999999997,
+            "perSecond": 0.006795586493092287
+          }
+        ]
+      },
+      {
+        "id": "68585",
+        "name": "Dormant Courage",
+        "total": 3,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 3,
+            "duration": 401.191,
+            "perSecond": 0.007477735043906768
+          }
+        ]
+      },
+      {
+        "id": "50302",
+        "name": "Holographic Super Drumstick",
+        "total": 3,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          }
+        ]
+      },
+      {
+        "id": "10567",
+        "name": "Locust Swarm",
+        "total": 3,
+        "rows": [
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 3,
+            "duration": 441.46299999999997,
+            "perSecond": 0.006795586493092287
+          }
+        ]
+      },
+      {
+        "id": "21487",
+        "name": "Metabolic Primer",
+        "total": 3,
+        "rows": [
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 3,
+            "duration": 740.582,
+            "perSecond": 0.004050868101034052
+          }
+        ]
+      },
+      {
+        "id": "77276",
+        "name": "Radiant Armaments (Shield Lingering)",
+        "total": 3,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 3,
+            "duration": 401.191,
+            "perSecond": 0.007477735043906768
+          }
+        ]
+      },
+      {
+        "id": "5590",
+        "name": "Signet of Air",
+        "total": 3,
+        "rows": [
+          {
+            "account": "Stan.9684",
+            "profession": "Tempest",
+            "total": 3,
+            "duration": 339.391,
+            "perSecond": 0.008839362269476798
+          }
+        ]
+      },
+      {
+        "id": "42311",
+        "name": "Trail of Anguish",
+        "total": 3,
+        "rows": [
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 3,
+            "duration": 700.31,
+            "perSecond": 0.0042838171666833265
+          }
+        ]
+      },
+      {
+        "id": "34677",
+        "name": "Compact Quality Tuning Crystal",
+        "total": 2,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 2,
+            "duration": 339.391,
+            "perSecond": 0.005892908179651198
+          }
+        ]
+      },
+      {
+        "id": "72902",
+        "name": "Electric Artillery",
+        "total": 2,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 2,
+            "duration": 401.191,
+            "perSecond": 0.004985156695937846
+          }
+        ]
+      },
+      {
+        "id": "77008",
+        "name": "Evolved",
+        "total": 2,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 2,
+            "duration": 441.46299999999997,
+            "perSecond": 0.004530390995394858
+          }
+        ]
+      },
+      {
+        "id": "76837",
+        "name": "Mitotic State",
+        "total": 2,
+        "rows": [
+          {
+            "account": "harasho.4281",
+            "profession": "Amalgam",
+            "total": 2,
+            "duration": 700.31,
+            "perSecond": 0.0028558781111222174
+          }
+        ]
+      },
+      {
+        "id": "34187",
+        "name": "Peppermint Oil",
+        "total": 2,
+        "rows": [
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "total": 2,
+            "duration": 339.391,
+            "perSecond": 0.005892908179651198
+          }
+        ]
+      },
+      {
+        "id": "9220",
+        "name": "Signet of Resolve",
+        "total": 2,
+        "rows": [
+          {
+            "account": "Revan Malise.5107",
+            "profession": "Luminary",
+            "total": 2,
+            "duration": 339.391,
+            "perSecond": 0.005892908179651198
+          }
+        ]
+      },
+      {
+        "id": "10621",
+        "name": "Signet of Spite",
+        "total": 2,
+        "rows": [
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 2,
+            "duration": 299.119,
+            "perSecond": 0.006686302107188108
+          }
+        ]
+      },
+      {
+        "id": "68640",
+        "name": "Dormant Resolve",
+        "total": 1,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          }
+        ]
+      },
+      {
+        "id": "9967",
+        "name": "Master Tuning Crystal",
+        "total": 1,
+        "rows": [
+          {
+            "account": "VincentCross.1469",
+            "profession": "Firebrand",
+            "total": 1,
+            "duration": 401.191,
+            "perSecond": 0.002492578347968923
+          }
+        ]
+      },
+      {
+        "id": "901",
+        "name": "Portal Interact Cooldown",
+        "total": 1,
+        "rows": [
+          {
+            "account": "moxic.6038",
+            "profession": "Scourge",
+            "total": 1,
+            "duration": 299.119,
+            "perSecond": 0.003343151053594054
+          }
+        ]
+      },
+      {
+        "id": "34211",
+        "name": "Tin of Fruitcake",
+        "total": 1,
+        "rows": [
+          {
+            "account": "Quantumized.5873",
+            "profession": "Scrapper",
+            "total": 1,
+            "duration": 299.119,
+            "perSecond": 0.003343151053594054
+          }
+        ]
+      },
+      {
+        "id": "9119",
+        "name": "Virtue of Resolve",
+        "total": 1,
+        "rows": [
+          {
+            "account": "Vettexl.9726",
+            "profession": "Luminary",
+            "total": 1,
+            "duration": 299.119,
+            "perSecond": 0.003343151053594054
+          }
+        ]
+      }
+    ],
+    "offensePlayers": [
+      {
+        "account": "Stan.9684",
+        "profession": "Tempest",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 4891,
+          "directDmg": 2543,
+          "connectedDamageCount": 79,
+          "connectedDirectDamageCount": 38,
+          "criticalRate": 9,
+          "criticalDmg": 694,
+          "flankingRate": 28,
+          "glanceRate": 0,
+          "missed": 0,
+          "evaded": 6,
+          "blocked": 0,
+          "interrupts": 0,
+          "invulned": 13,
+          "killed": 0,
+          "downed": 0,
+          "downContribution": 1608,
+          "againstDownedDamage": 2252,
+          "appliedCrowdControl": 0,
+          "appliedCrowdControlDuration": 0,
+          "appliedCrowdControlDownContribution": 0,
+          "appliedCrowdControlDurationDownContribution": 0
+        },
+        "offenseRateWeights": {
+          "criticalRate": 38,
+          "flankingRate": 38,
+          "glanceRate": 38
+        },
+        "downs": 0,
+        "downContribution": 1608
+      },
+      {
+        "account": "Grimmster.6924",
+        "profession": "Reaper",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 186059,
+          "directDmg": 173803,
+          "connectedDamageCount": 253,
+          "connectedDirectDamageCount": 131,
+          "criticalRate": 114,
+          "criticalDmg": 165047,
+          "flankingRate": 62,
+          "glanceRate": 1,
+          "missed": 0,
+          "evaded": 9,
+          "blocked": 3,
+          "interrupts": 0,
+          "invulned": 27,
+          "killed": 3,
+          "downed": 2,
+          "downContribution": 34423,
+          "againstDownedDamage": 117678,
+          "appliedCrowdControl": 1,
+          "appliedCrowdControlDuration": 2000,
+          "appliedCrowdControlDownContribution": 1,
+          "appliedCrowdControlDurationDownContribution": 2000
+        },
+        "offenseRateWeights": {
+          "criticalRate": 129,
+          "flankingRate": 131,
+          "glanceRate": 131
+        },
+        "downs": 1,
+        "downContribution": 34423
+      },
+      {
+        "account": "moxic.6038",
+        "profession": "Scourge",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 143522,
+          "directDmg": 34437,
+          "connectedDamageCount": 817,
+          "connectedDirectDamageCount": 194,
+          "criticalRate": 73,
+          "criticalDmg": 18190,
+          "flankingRate": 106,
+          "glanceRate": 12,
+          "missed": 1,
+          "evaded": 19,
+          "blocked": 7,
+          "interrupts": 3,
+          "invulned": 47,
+          "killed": 1,
+          "downed": 0,
+          "downContribution": 33420,
+          "againstDownedDamage": 68820,
+          "appliedCrowdControl": 6,
+          "appliedCrowdControlDuration": 7076,
+          "appliedCrowdControlDownContribution": 4,
+          "appliedCrowdControlDurationDownContribution": 5002
+        },
+        "offenseRateWeights": {
+          "criticalRate": 194,
+          "flankingRate": 194,
+          "glanceRate": 194
+        },
+        "downs": 2,
+        "downContribution": 33420
+      },
+      {
+        "account": "Revan Malise.5107",
+        "profession": "Luminary",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 364386,
+          "directDmg": 347475,
+          "connectedDamageCount": 381,
+          "connectedDirectDamageCount": 200,
+          "criticalRate": 179,
+          "criticalDmg": 336550,
+          "flankingRate": 108,
+          "glanceRate": 3,
+          "missed": 2,
+          "evaded": 15,
+          "blocked": 5,
+          "interrupts": 9,
+          "invulned": 39,
+          "killed": 3,
+          "downed": 4,
+          "downContribution": 102800,
+          "againstDownedDamage": 212743,
+          "appliedCrowdControl": 3,
+          "appliedCrowdControlDuration": 5000,
+          "appliedCrowdControlDownContribution": 2,
+          "appliedCrowdControlDurationDownContribution": 3000
+        },
+        "offenseRateWeights": {
+          "criticalRate": 200,
+          "flankingRate": 200,
+          "glanceRate": 200
+        },
+        "downs": 1,
+        "downContribution": 102800
+      },
+      {
+        "account": "VincentCross.1469",
+        "profession": "Firebrand",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 459888,
+          "directDmg": 90843,
+          "connectedDamageCount": 1007,
+          "connectedDirectDamageCount": 387,
+          "criticalRate": 143,
+          "criticalDmg": 47416,
+          "flankingRate": 137,
+          "glanceRate": 10,
+          "missed": 6,
+          "evaded": 60,
+          "blocked": 30,
+          "interrupts": 11,
+          "invulned": 102,
+          "killed": 6,
+          "downed": 4,
+          "downContribution": 137991,
+          "againstDownedDamage": 224303,
+          "appliedCrowdControl": 14,
+          "appliedCrowdControlDuration": 21500,
+          "appliedCrowdControlDownContribution": 8,
+          "appliedCrowdControlDurationDownContribution": 12500
+        },
+        "offenseRateWeights": {
+          "criticalRate": 387,
+          "flankingRate": 387,
+          "glanceRate": 387
+        },
+        "downs": 1,
+        "downContribution": 137991
+      },
+      {
+        "account": "undiee.3146",
+        "profession": "Catalyst",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 768050,
+          "directDmg": 715245,
+          "connectedDamageCount": 547,
+          "connectedDirectDamageCount": 294,
+          "criticalRate": 263,
+          "criticalDmg": 696941,
+          "flankingRate": 138,
+          "glanceRate": 16,
+          "missed": 0,
+          "evaded": 39,
+          "blocked": 10,
+          "interrupts": 1,
+          "invulned": 82,
+          "killed": 6,
+          "downed": 14,
+          "downContribution": 189432,
+          "againstDownedDamage": 317198,
+          "appliedCrowdControl": 11,
+          "appliedCrowdControlDuration": 17960,
+          "appliedCrowdControlDownContribution": 4,
+          "appliedCrowdControlDurationDownContribution": 4000
+        },
+        "offenseRateWeights": {
+          "criticalRate": 286,
+          "flankingRate": 294,
+          "glanceRate": 294
+        },
+        "downs": 3,
+        "downContribution": 189432
+      },
+      {
+        "account": "Quantumized.5873",
+        "profession": "Scrapper",
+        "totalFightMs": 339391,
+        "offenseTotals": {
+          "damage": 10188,
+          "directDmg": 7746,
+          "connectedDamageCount": 66,
+          "connectedDirectDamageCount": 26,
+          "criticalRate": 8,
+          "criticalDmg": 3347,
+          "flankingRate": 15,
+          "glanceRate": 0,
+          "missed": 0,
+          "evaded": 5,
+          "blocked": 0,
+          "interrupts": 2,
+          "invulned": 13,
+          "killed": 1,
+          "downed": 0,
+          "downContribution": 2633,
+          "againstDownedDamage": 6964,
+          "appliedCrowdControl": 2,
+          "appliedCrowdControlDuration": 3000,
+          "appliedCrowdControlDownContribution": 2,
+          "appliedCrowdControlDurationDownContribution": 3000
+        },
+        "offenseRateWeights": {
+          "criticalRate": 26,
+          "flankingRate": 26,
+          "glanceRate": 26
+        },
+        "downs": 0,
+        "downContribution": 2633
+      },
+      {
+        "account": "harasho.4281",
+        "profession": "Amalgam",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 626172,
+          "directDmg": 579735,
+          "connectedDamageCount": 722,
+          "connectedDirectDamageCount": 408,
+          "criticalRate": 395,
+          "criticalDmg": 572606,
+          "flankingRate": 189,
+          "glanceRate": 7,
+          "missed": 9,
+          "evaded": 31,
+          "blocked": 14,
+          "interrupts": 2,
+          "invulned": 66,
+          "killed": 7,
+          "downed": 5,
+          "downContribution": 177377,
+          "againstDownedDamage": 314475,
+          "appliedCrowdControl": 6,
+          "appliedCrowdControlDuration": 9320,
+          "appliedCrowdControlDownContribution": 2,
+          "appliedCrowdControlDurationDownContribution": 3000
+        },
+        "offenseRateWeights": {
+          "criticalRate": 408,
+          "flankingRate": 408,
+          "glanceRate": 408
+        },
+        "downs": 1,
+        "downContribution": 177377
+      },
+      {
+        "account": "Vettexl.9726",
+        "profession": "Luminary",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 574483,
+          "directDmg": 563347,
+          "connectedDamageCount": 345,
+          "connectedDirectDamageCount": 218,
+          "criticalRate": 198,
+          "criticalDmg": 550449,
+          "flankingRate": 123,
+          "glanceRate": 7,
+          "missed": 8,
+          "evaded": 27,
+          "blocked": 4,
+          "interrupts": 6,
+          "invulned": 67,
+          "killed": 8,
+          "downed": 8,
+          "downContribution": 120390,
+          "againstDownedDamage": 374658,
+          "appliedCrowdControl": 6,
+          "appliedCrowdControlDuration": 9500,
+          "appliedCrowdControlDownContribution": 1,
+          "appliedCrowdControlDurationDownContribution": 1500
+        },
+        "offenseRateWeights": {
+          "criticalRate": 218,
+          "flankingRate": 218,
+          "glanceRate": 218
+        },
+        "downs": 1,
+        "downContribution": 120390
+      },
+      {
+        "account": "Zietlogik.6208",
+        "profession": "Reaper",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 879463,
+          "directDmg": 846506,
+          "connectedDamageCount": 1060,
+          "connectedDirectDamageCount": 791,
+          "criticalRate": 518,
+          "criticalDmg": 709267,
+          "flankingRate": 424,
+          "glanceRate": 17,
+          "missed": 11,
+          "evaded": 98,
+          "blocked": 53,
+          "interrupts": 9,
+          "invulned": 117,
+          "killed": 10,
+          "downed": 12,
+          "downContribution": 228068,
+          "againstDownedDamage": 437667,
+          "appliedCrowdControl": 23,
+          "appliedCrowdControlDuration": 43191,
+          "appliedCrowdControlDownContribution": 5,
+          "appliedCrowdControlDurationDownContribution": 9053
+        },
+        "offenseRateWeights": {
+          "criticalRate": 731,
+          "flankingRate": 791,
+          "glanceRate": 791
+        },
+        "downs": 1,
+        "downContribution": 228068
+      },
+      {
+        "account": "Shanhana Miko.8702",
+        "profession": "Luminary",
+        "totalFightMs": 1542964,
+        "offenseTotals": {
+          "damage": 39002,
+          "directDmg": 33196,
+          "connectedDamageCount": 171,
+          "connectedDirectDamageCount": 114,
+          "criticalRate": 19,
+          "criticalDmg": 7584,
+          "flankingRate": 63,
+          "glanceRate": 0,
+          "missed": 1,
+          "evaded": 16,
+          "blocked": 5,
+          "interrupts": 1,
+          "invulned": 15,
+          "killed": 1,
+          "downed": 0,
+          "downContribution": 9433,
+          "againstDownedDamage": 19135,
+          "appliedCrowdControl": 3,
+          "appliedCrowdControlDuration": 4500,
+          "appliedCrowdControlDownContribution": 0,
+          "appliedCrowdControlDurationDownContribution": 0
+        },
+        "offenseRateWeights": {
+          "criticalRate": 114,
+          "flankingRate": 114,
+          "glanceRate": 114
+        },
+        "downs": 0,
+        "downContribution": 9433
+      },
+      {
+        "account": "pinguinox.9528",
+        "profession": "Scrapper",
+        "totalFightMs": 1542964,
+        "offenseTotals": {
+          "damage": 28668,
+          "directDmg": 17471,
+          "connectedDamageCount": 219,
+          "connectedDirectDamageCount": 82,
+          "criticalRate": 20,
+          "criticalDmg": 6592,
+          "flankingRate": 47,
+          "glanceRate": 2,
+          "missed": 3,
+          "evaded": 11,
+          "blocked": 6,
+          "interrupts": 1,
+          "invulned": 18,
+          "killed": 1,
+          "downed": 1,
+          "downContribution": 5887,
+          "againstDownedDamage": 17593,
+          "appliedCrowdControl": 2,
+          "appliedCrowdControlDuration": 2500,
+          "appliedCrowdControlDownContribution": 0,
+          "appliedCrowdControlDurationDownContribution": 0
+        },
+        "offenseRateWeights": {
+          "criticalRate": 82,
+          "flankingRate": 82,
+          "glanceRate": 82
+        },
+        "downs": 0,
+        "downContribution": 5887
+      },
+      {
+        "account": "Wag Z.8294",
+        "profession": "Catalyst",
+        "totalFightMs": 740582,
+        "offenseTotals": {
+          "damage": 396550,
+          "directDmg": 382185,
+          "connectedDamageCount": 270,
+          "connectedDirectDamageCount": 191,
+          "criticalRate": 162,
+          "criticalDmg": 368152,
+          "flankingRate": 101,
+          "glanceRate": 3,
+          "missed": 0,
+          "evaded": 27,
+          "blocked": 3,
+          "interrupts": 2,
+          "invulned": 29,
+          "killed": 3,
+          "downed": 8,
+          "downContribution": 105251,
+          "againstDownedDamage": 123640,
+          "appliedCrowdControl": 3,
+          "appliedCrowdControlDuration": 6320,
+          "appliedCrowdControlDownContribution": 1,
+          "appliedCrowdControlDurationDownContribution": 2000
+        },
+        "offenseRateWeights": {
+          "criticalRate": 188,
+          "flankingRate": 191,
+          "glanceRate": 191
+        },
+        "downs": 0,
+        "downContribution": 105251
+      }
+    ],
+    "defensePlayers": [
+      {
+        "account": "Stan.9684",
+        "profession": "Tempest",
+        "activeMs": 630372,
+        "defenseTotals": {
+          "damageTaken": 93042,
+          "damageTakenCount": 259,
+          "conditionDamageTaken": 7646,
+          "conditionDamageTakenCount": 57,
+          "powerDamageTaken": 85396,
+          "powerDamageTakenCount": 202,
+          "downedDamageTaken": 0,
+          "downedDamageTakenCount": 0,
+          "damageBarrier": 17696,
+          "damageBarrierCount": 83,
+          "blockedCount": 23,
+          "evadedCount": 2,
+          "missedCount": 6,
+          "dodgeCount": 5,
+          "invulnedCount": 0,
+          "interruptedCount": 1,
+          "downCount": 0,
+          "deadCount": 0,
+          "boonStrips": 8,
+          "conditionCleanses": 143,
+          "receivedCrowdControl": 3
+        }
+      },
+      {
+        "account": "Grimmster.6924",
+        "profession": "Reaper",
+        "activeMs": 538466,
+        "defenseTotals": {
+          "damageTaken": 205937,
+          "damageTakenCount": 395,
+          "conditionDamageTaken": 6330,
+          "conditionDamageTakenCount": 77,
+          "powerDamageTaken": 199607,
+          "powerDamageTakenCount": 318,
+          "downedDamageTaken": 46297,
+          "downedDamageTakenCount": 61,
+          "damageBarrier": 10800,
+          "damageBarrierCount": 37,
+          "blockedCount": 12,
+          "evadedCount": 9,
+          "missedCount": 6,
+          "dodgeCount": 6,
+          "invulnedCount": 2,
+          "interruptedCount": 3,
+          "downCount": 1,
+          "deadCount": 1,
+          "boonStrips": 8,
+          "conditionCleanses": 134,
+          "receivedCrowdControl": 11
+        }
+      },
+      {
+        "account": "moxic.6038",
+        "profession": "Scourge",
+        "activeMs": 740504,
+        "defenseTotals": {
+          "damageTaken": 295993,
+          "damageTakenCount": 685,
+          "conditionDamageTaken": 31232,
+          "conditionDamageTakenCount": 229,
+          "powerDamageTaken": 264761,
+          "powerDamageTakenCount": 456,
+          "downedDamageTaken": 57390,
+          "downedDamageTakenCount": 143,
+          "damageBarrier": 44227,
+          "damageBarrierCount": 114,
+          "blockedCount": 26,
+          "evadedCount": 33,
+          "missedCount": 6,
+          "dodgeCount": 26,
+          "invulnedCount": 27,
+          "interruptedCount": 2,
+          "downCount": 2,
+          "deadCount": 0,
+          "boonStrips": 23,
+          "conditionCleanses": 179,
+          "receivedCrowdControl": 9
+        }
+      },
+      {
+        "account": "Revan Malise.5107",
+        "profession": "Luminary",
+        "activeMs": 740509,
+        "defenseTotals": {
+          "damageTaken": 271770,
+          "damageTakenCount": 547,
+          "conditionDamageTaken": 23108,
+          "conditionDamageTakenCount": 166,
+          "powerDamageTaken": 248662,
+          "powerDamageTakenCount": 381,
+          "downedDamageTaken": 466,
+          "downedDamageTakenCount": 3,
+          "damageBarrier": 53273,
+          "damageBarrierCount": 144,
+          "blockedCount": 68,
+          "evadedCount": 16,
+          "missedCount": 8,
+          "dodgeCount": 30,
+          "invulnedCount": 19,
+          "interruptedCount": 1,
+          "downCount": 1,
+          "deadCount": 0,
+          "boonStrips": 29,
+          "conditionCleanses": 193,
+          "receivedCrowdControl": 11
+        }
+      },
+      {
+        "account": "VincentCross.1469",
+        "profession": "Firebrand",
+        "activeMs": 740510,
+        "defenseTotals": {
+          "damageTaken": 222824,
+          "damageTakenCount": 583,
+          "conditionDamageTaken": 22557,
+          "conditionDamageTakenCount": 174,
+          "powerDamageTaken": 200267,
+          "powerDamageTakenCount": 409,
+          "downedDamageTaken": 2011,
+          "downedDamageTakenCount": 6,
+          "damageBarrier": 37139,
+          "damageBarrierCount": 131,
+          "blockedCount": 53,
+          "evadedCount": 21,
+          "missedCount": 10,
+          "dodgeCount": 34,
+          "invulnedCount": 1,
+          "interruptedCount": 2,
+          "downCount": 1,
+          "deadCount": 0,
+          "boonStrips": 20,
+          "conditionCleanses": 225,
+          "receivedCrowdControl": 10
+        }
+      },
+      {
+        "account": "undiee.3146",
+        "profession": "Catalyst",
+        "activeMs": 740509,
+        "defenseTotals": {
+          "damageTaken": 315642,
+          "damageTakenCount": 714,
+          "conditionDamageTaken": 32200,
+          "conditionDamageTakenCount": 240,
+          "powerDamageTaken": 283442,
+          "powerDamageTakenCount": 474,
+          "downedDamageTaken": 33027,
+          "downedDamageTakenCount": 93,
+          "damageBarrier": 44708,
+          "damageBarrierCount": 152,
+          "blockedCount": 67,
+          "evadedCount": 47,
+          "missedCount": 7,
+          "dodgeCount": 16,
+          "invulnedCount": 38,
+          "interruptedCount": 5,
+          "downCount": 3,
+          "deadCount": 0,
+          "boonStrips": 17,
+          "conditionCleanses": 193,
+          "receivedCrowdControl": 6
+        }
+      },
+      {
+        "account": "Quantumized.5873",
+        "profession": "Scrapper",
+        "activeMs": 339348,
+        "defenseTotals": {
+          "damageTaken": 43066,
+          "damageTakenCount": 147,
+          "conditionDamageTaken": 1651,
+          "conditionDamageTakenCount": 33,
+          "powerDamageTaken": 41415,
+          "powerDamageTakenCount": 114,
+          "downedDamageTaken": 0,
+          "downedDamageTakenCount": 0,
+          "damageBarrier": 14192,
+          "damageBarrierCount": 72,
+          "blockedCount": 12,
+          "evadedCount": 4,
+          "missedCount": 5,
+          "dodgeCount": 15,
+          "invulnedCount": 0,
+          "interruptedCount": 1,
+          "downCount": 0,
+          "deadCount": 0,
+          "boonStrips": 5,
+          "conditionCleanses": 70,
+          "receivedCrowdControl": 3
+        }
+      },
+      {
+        "account": "harasho.4281",
+        "profession": "Amalgam",
+        "activeMs": 740514,
+        "defenseTotals": {
+          "damageTaken": 280463,
+          "damageTakenCount": 561,
+          "conditionDamageTaken": 26178,
+          "conditionDamageTakenCount": 197,
+          "powerDamageTaken": 254285,
+          "powerDamageTakenCount": 364,
+          "downedDamageTaken": 32591,
+          "downedDamageTakenCount": 25,
+          "damageBarrier": 63163,
+          "damageBarrierCount": 185,
+          "blockedCount": 49,
+          "evadedCount": 31,
+          "missedCount": 14,
+          "dodgeCount": 18,
+          "invulnedCount": 12,
+          "interruptedCount": 6,
+          "downCount": 1,
+          "deadCount": 0,
+          "boonStrips": 25,
+          "conditionCleanses": 155,
+          "receivedCrowdControl": 8
+        }
+      },
+      {
+        "account": "Vettexl.9726",
+        "profession": "Luminary",
+        "activeMs": 740510,
+        "defenseTotals": {
+          "damageTaken": 249867,
+          "damageTakenCount": 651,
+          "conditionDamageTaken": 15954,
+          "conditionDamageTakenCount": 171,
+          "powerDamageTaken": 233913,
+          "powerDamageTakenCount": 480,
+          "downedDamageTaken": 27127,
+          "downedDamageTakenCount": 55,
+          "damageBarrier": 49020,
+          "damageBarrierCount": 190,
+          "blockedCount": 70,
+          "evadedCount": 23,
+          "missedCount": 11,
+          "dodgeCount": 19,
+          "invulnedCount": 22,
+          "interruptedCount": 3,
+          "downCount": 1,
+          "deadCount": 0,
+          "boonStrips": 28,
+          "conditionCleanses": 226,
+          "receivedCrowdControl": 4
+        }
+      },
+      {
+        "account": "Zietlogik.6208",
+        "profession": "Reaper",
+        "activeMs": 740501,
+        "defenseTotals": {
+          "damageTaken": 346621,
+          "damageTakenCount": 898,
+          "conditionDamageTaken": 35333,
+          "conditionDamageTakenCount": 290,
+          "powerDamageTaken": 311288,
+          "powerDamageTakenCount": 608,
+          "downedDamageTaken": 2178,
+          "downedDamageTakenCount": 3,
+          "damageBarrier": 36724,
+          "damageBarrierCount": 168,
+          "blockedCount": 42,
+          "evadedCount": 27,
+          "missedCount": 11,
+          "dodgeCount": 26,
+          "invulnedCount": 2,
+          "interruptedCount": 5,
+          "downCount": 1,
+          "deadCount": 0,
+          "boonStrips": 20,
+          "conditionCleanses": 207,
+          "receivedCrowdControl": 17
+        }
+      },
+      {
+        "account": "Shanhana Miko.8702",
+        "profession": "Luminary",
+        "activeMs": 740510,
+        "defenseTotals": {
+          "damageTaken": 139737,
+          "damageTakenCount": 437,
+          "conditionDamageTaken": 8616,
+          "conditionDamageTakenCount": 97,
+          "powerDamageTaken": 131121,
+          "powerDamageTakenCount": 340,
+          "downedDamageTaken": 0,
+          "downedDamageTakenCount": 0,
+          "damageBarrier": 34482,
+          "damageBarrierCount": 134,
+          "blockedCount": 61,
+          "evadedCount": 17,
+          "missedCount": 10,
+          "dodgeCount": 22,
+          "invulnedCount": 0,
+          "interruptedCount": 1,
+          "downCount": 0,
+          "deadCount": 0,
+          "boonStrips": 22,
+          "conditionCleanses": 136,
+          "receivedCrowdControl": 3
+        }
+      },
+      {
+        "account": "pinguinox.9528",
+        "profession": "Scrapper",
+        "activeMs": 740499,
+        "defenseTotals": {
+          "damageTaken": 208835,
+          "damageTakenCount": 558,
+          "conditionDamageTaken": 16296,
+          "conditionDamageTakenCount": 150,
+          "powerDamageTaken": 192539,
+          "powerDamageTakenCount": 408,
+          "downedDamageTaken": 0,
+          "downedDamageTakenCount": 0,
+          "damageBarrier": 53699,
+          "damageBarrierCount": 180,
+          "blockedCount": 63,
+          "evadedCount": 2,
+          "missedCount": 10,
+          "dodgeCount": 9,
+          "invulnedCount": 0,
+          "interruptedCount": 1,
+          "downCount": 0,
+          "deadCount": 0,
+          "boonStrips": 21,
+          "conditionCleanses": 186,
+          "receivedCrowdControl": 3
+        }
+      },
+      {
+        "account": "Wag Z.8294",
+        "profession": "Catalyst",
+        "activeMs": 371819,
+        "defenseTotals": {
+          "damageTaken": 74777,
+          "damageTakenCount": 161,
+          "conditionDamageTaken": 7734,
+          "conditionDamageTakenCount": 44,
+          "powerDamageTaken": 67043,
+          "powerDamageTakenCount": 117,
+          "downedDamageTaken": 0,
+          "downedDamageTakenCount": 0,
+          "damageBarrier": 13421,
+          "damageBarrierCount": 31,
+          "blockedCount": 22,
+          "evadedCount": 22,
+          "missedCount": 4,
+          "dodgeCount": 19,
+          "invulnedCount": 0,
+          "interruptedCount": 2,
+          "downCount": 0,
+          "deadCount": 0,
+          "boonStrips": 4,
+          "conditionCleanses": 57,
+          "receivedCrowdControl": 4
+        }
+      }
+    ],
+    "supportPlayers": [
+      {
+        "account": "Stan.9684",
+        "profession": "Tempest",
+        "activeMs": 630372,
+        "supportTotals": {
+          "condiCleanse": 522,
+          "condiCleanseTime": 55054.668000000005,
+          "condiCleanseSelf": 94,
+          "condiCleanseTimeSelf": 8055.573,
+          "boonStrips": 0,
+          "boonStripsTime": 0,
+          "boonStripDownContribution": 0,
+          "boonStripDownContributionTime": 0,
+          "stunBreak": 1,
+          "removedStunDuration": 1.785,
+          "resurrects": 0,
+          "resurrectTime": 0
+        }
+      },
+      {
+        "account": "Grimmster.6924",
+        "profession": "Reaper",
+        "activeMs": 538466,
+        "supportTotals": {
+          "condiCleanse": 12,
+          "condiCleanseTime": 4406.004,
+          "condiCleanseSelf": 39,
+          "condiCleanseTimeSelf": 5123.743,
+          "boonStrips": 20,
+          "boonStripsTime": 4164.285,
+          "boonStripDownContribution": 7,
+          "boonStripDownContributionTime": 1576.824,
+          "stunBreak": 3,
+          "removedStunDuration": 4.725,
+          "resurrects": 0,
+          "resurrectTime": 0
+        }
+      },
+      {
+        "account": "moxic.6038",
+        "profession": "Scourge",
+        "activeMs": 740504,
+        "supportTotals": {
+          "condiCleanse": 61,
+          "condiCleanseTime": 15438.311000000002,
+          "condiCleanseSelf": 41,
+          "condiCleanseTimeSelf": 5504.778,
+          "boonStrips": 28,
+          "boonStripsTime": 2783.219,
+          "boonStripDownContribution": 10,
+          "boonStripDownContributionTime": 2182.861,
+          "stunBreak": 2,
+          "removedStunDuration": 2.183,
+          "resurrects": 2,
+          "resurrectTime": 1.164
+        }
+      },
+      {
+        "account": "Revan Malise.5107",
+        "profession": "Luminary",
+        "activeMs": 740509,
+        "supportTotals": {
+          "condiCleanse": 81,
+          "condiCleanseTime": 23783.760000000002,
+          "condiCleanseSelf": 44,
+          "condiCleanseTimeSelf": 5827.844,
+          "boonStrips": 2,
+          "boonStripsTime": 301.485,
+          "boonStripDownContribution": 0,
+          "boonStripDownContributionTime": 0,
+          "stunBreak": 6,
+          "removedStunDuration": 7.265000000000001,
+          "resurrects": 0,
+          "resurrectTime": 0
+        }
+      },
+      {
+        "account": "VincentCross.1469",
+        "profession": "Firebrand",
+        "activeMs": 740510,
+        "supportTotals": {
+          "condiCleanse": 96,
+          "condiCleanseTime": 21811.6,
+          "condiCleanseSelf": 50,
+          "condiCleanseTimeSelf": 5990.593,
+          "boonStrips": 0,
+          "boonStripsTime": 0,
+          "boonStripDownContribution": 0,
+          "boonStripDownContributionTime": 0,
+          "stunBreak": 4,
+          "removedStunDuration": 6.381,
+          "resurrects": 1,
+          "resurrectTime": 5.402
+        }
+      },
+      {
+        "account": "undiee.3146",
+        "profession": "Catalyst",
+        "activeMs": 740509,
+        "supportTotals": {
+          "condiCleanse": 12,
+          "condiCleanseTime": 3589.428,
+          "condiCleanseSelf": 45,
+          "condiCleanseTimeSelf": 5831.893,
+          "boonStrips": 0,
+          "boonStripsTime": 0,
+          "boonStripDownContribution": 0,
+          "boonStripDownContributionTime": 0,
+          "stunBreak": 5,
+          "removedStunDuration": 5.247,
+          "resurrects": 2,
+          "resurrectTime": 2.003
+        }
+      },
+      {
+        "account": "Quantumized.5873",
+        "profession": "Scrapper",
+        "activeMs": 339348,
+        "supportTotals": {
+          "condiCleanse": 103,
+          "condiCleanseTime": 16551.959,
+          "condiCleanseSelf": 19,
+          "condiCleanseTimeSelf": 1945.6170000000002,
+          "boonStrips": 0,
+          "boonStripsTime": 0,
+          "boonStripDownContribution": 0,
+          "boonStripDownContributionTime": 0,
+          "stunBreak": 1,
+          "removedStunDuration": 0.764,
+          "resurrects": 0,
+          "resurrectTime": 0
+        }
+      },
+      {
+        "account": "harasho.4281",
+        "profession": "Amalgam",
+        "activeMs": 740514,
+        "supportTotals": {
+          "condiCleanse": 1,
+          "condiCleanseTime": 401.191,
+          "condiCleanseSelf": 18,
+          "condiCleanseTimeSelf": 3868.3280000000004,
+          "boonStrips": 0,
+          "boonStripsTime": 0,
+          "boonStripDownContribution": 0,
+          "boonStripDownContributionTime": 0,
+          "stunBreak": 4,
+          "removedStunDuration": 5.516,
+          "resurrects": 2,
+          "resurrectTime": 3.885
+        }
+      },
+      {
+        "account": "Vettexl.9726",
+        "profession": "Luminary",
+        "activeMs": 740510,
+        "supportTotals": {
+          "condiCleanse": 55,
+          "condiCleanseTime": 15907.643,
+          "condiCleanseSelf": 40,
+          "condiCleanseTimeSelf": 5729.986,
+          "boonStrips": 2,
+          "boonStripsTime": 700.31,
+          "boonStripDownContribution": 1,
+          "boonStripDownContributionTime": 403.953,
+          "stunBreak": 4,
+          "removedStunDuration": 2.692,
+          "resurrects": 2,
+          "resurrectTime": 5.651
+        }
+      },
+      {
+        "account": "Zietlogik.6208",
+        "profession": "Reaper",
+        "activeMs": 740501,
+        "supportTotals": {
+          "condiCleanse": 12,
+          "condiCleanseTime": 2830.174,
+          "condiCleanseSelf": 53,
+          "condiCleanseTimeSelf": 7519.1449999999995,
+          "boonStrips": 219,
+          "boonStripsTime": 10734.295,
+          "boonStripDownContribution": 68,
+          "boonStripDownContributionTime": 9172.679,
+          "stunBreak": 8,
+          "removedStunDuration": 9.917,
+          "resurrects": 1,
+          "resurrectTime": 5.203
+        }
+      },
+      {
+        "account": "Shanhana Miko.8702",
+        "profession": "Luminary",
+        "activeMs": 740510,
+        "supportTotals": {
+          "condiCleanse": 122,
+          "condiCleanseTime": 33701.273,
+          "condiCleanseSelf": 16,
+          "condiCleanseTimeSelf": 4714.235,
+          "boonStrips": 0,
+          "boonStripsTime": 0,
+          "boonStripDownContribution": 0,
+          "boonStripDownContributionTime": 0,
+          "stunBreak": 2,
+          "removedStunDuration": 2.288,
+          "resurrects": 6,
+          "resurrectTime": 11.504000000000001
+        }
+      },
+      {
+        "account": "pinguinox.9528",
+        "profession": "Scrapper",
+        "activeMs": 740499,
+        "supportTotals": {
+          "condiCleanse": 417,
+          "condiCleanseTime": 54532.153,
+          "condiCleanseSelf": 79,
+          "condiCleanseTimeSelf": 7289.116,
+          "boonStrips": 0,
+          "boonStripsTime": 0,
+          "boonStripDownContribution": 0,
+          "boonStripDownContributionTime": 0,
+          "stunBreak": 1,
+          "removedStunDuration": 1.169,
+          "resurrects": 3,
+          "resurrectTime": 10.901
+        }
+      },
+      {
+        "account": "Wag Z.8294",
+        "profession": "Catalyst",
+        "activeMs": 371819,
+        "supportTotals": {
+          "condiCleanse": 6,
+          "condiCleanseTime": 1794.714,
+          "condiCleanseSelf": 3,
+          "condiCleanseTimeSelf": 897.357,
+          "boonStrips": 0,
+          "boonStripsTime": 0,
+          "boonStripDownContribution": 0,
+          "boonStripDownContributionTime": 0,
+          "stunBreak": 2,
+          "removedStunDuration": 2.392,
+          "resurrects": 0,
+          "resurrectTime": 0
+        }
+      }
+    ],
+    "healingPlayers": [
+      {
+        "account": "Stan.9684",
+        "profession": "Tempest",
+        "activeMs": 630372,
+        "healingTotals": {
+          "healing": 581282,
+          "downedHealing": 0,
+          "squadHealing": 539082,
+          "squadDownedHealing": 0,
+          "groupHealing": 314410,
+          "groupDownedHealing": 0,
+          "selfHealing": 57009,
+          "selfDownedHealing": 0,
+          "offSquadHealing": 42200,
+          "offSquadDownedHealing": 0
+        }
+      },
+      {
+        "account": "Grimmster.6924",
+        "profession": "Reaper",
+        "activeMs": 538466,
+        "healingTotals": {
+          "healing": 20868,
+          "downedHealing": 1031,
+          "squadHealing": 20868,
+          "squadDownedHealing": 1031,
+          "groupHealing": 20868,
+          "groupDownedHealing": 1031,
+          "selfHealing": 20868,
+          "selfDownedHealing": 1031
+        }
+      },
+      {
+        "account": "moxic.6038",
+        "profession": "Scourge",
+        "activeMs": 740504,
+        "healingTotals": {
+          "healing": 150517,
+          "downedHealing": 10725,
+          "squadHealing": 150517,
+          "squadDownedHealing": 10725,
+          "groupHealing": 127099,
+          "groupDownedHealing": 6974,
+          "selfHealing": 84594,
+          "selfDownedHealing": 6974,
+          "barrier": 55316,
+          "squadBarrier": 55316,
+          "groupBarrier": 44267,
+          "selfBarrier": 28081
+        }
+      },
+      {
+        "account": "Revan Malise.5107",
+        "profession": "Luminary",
+        "activeMs": 740509,
+        "healingTotals": {
+          "healing": 59475,
+          "downedHealing": 234,
+          "squadHealing": 59475,
+          "squadDownedHealing": 234,
+          "groupHealing": 17951,
+          "groupDownedHealing": 100,
+          "barrier": 163519,
+          "squadBarrier": 163519,
+          "groupBarrier": 102092
+        }
+      },
+      {
+        "account": "VincentCross.1469",
+        "profession": "Firebrand",
+        "activeMs": 740510,
+        "healingTotals": {
+          "healing": 5492,
+          "downedHealing": 0,
+          "squadHealing": 5492,
+          "squadDownedHealing": 0,
+          "groupHealing": 2743,
+          "groupDownedHealing": 0
+        }
+      },
+      {
+        "account": "undiee.3146",
+        "profession": "Catalyst",
+        "activeMs": 740509,
+        "healingTotals": {
+          "healing": 65555,
+          "downedHealing": 0,
+          "squadHealing": 65555,
+          "squadDownedHealing": 0,
+          "groupHealing": 42734,
+          "groupDownedHealing": 0,
+          "selfHealing": 32398,
+          "selfDownedHealing": 0
+        }
+      },
+      {
+        "account": "Quantumized.5873",
+        "profession": "Scrapper",
+        "activeMs": 339348,
+        "healingTotals": {
+          "healing": 88833,
+          "downedHealing": 0,
+          "squadHealing": 71973,
+          "squadDownedHealing": 0,
+          "groupHealing": 32663,
+          "groupDownedHealing": 0,
+          "selfHealing": 10163,
+          "selfDownedHealing": 0,
+          "offSquadHealing": 16860,
+          "offSquadDownedHealing": 0,
+          "barrier": 223134,
+          "squadBarrier": 220443,
+          "groupBarrier": 141443,
+          "selfBarrier": 34324,
+          "offSquadBarrier": 2691
+        }
+      },
+      {
+        "account": "harasho.4281",
+        "profession": "Amalgam",
+        "activeMs": 740514,
+        "healingTotals": {
+          "healing": 10282,
+          "downedHealing": 5787,
+          "squadHealing": 10282,
+          "squadDownedHealing": 5787,
+          "groupHealing": 10282,
+          "groupDownedHealing": 0,
+          "selfHealing": 10282,
+          "selfDownedHealing": 0,
+          "barrier": 11909,
+          "squadBarrier": 11909,
+          "groupBarrier": 11909,
+          "selfBarrier": 11909
+        }
+      },
+      {
+        "account": "Vettexl.9726",
+        "profession": "Luminary",
+        "activeMs": 740510,
+        "healingTotals": {
+          "healing": 130589,
+          "downedHealing": 22014,
+          "squadHealing": 126912,
+          "squadDownedHealing": 22014,
+          "groupHealing": 91483,
+          "groupDownedHealing": 22014,
+          "selfHealing": 29070,
+          "selfDownedHealing": 0,
+          "offSquadHealing": 3677,
+          "offSquadDownedHealing": 0,
+          "barrier": 59670,
+          "squadBarrier": 59670,
+          "groupBarrier": 48195,
+          "selfBarrier": 13770
+        }
+      },
+      {
+        "account": "Zietlogik.6208",
+        "profession": "Reaper",
+        "activeMs": 740501,
+        "healingTotals": {
+          "healing": 15500,
+          "downedHealing": 0,
+          "squadHealing": 15500,
+          "squadDownedHealing": 0
+        }
+      },
+      {
+        "account": "Shanhana Miko.8702",
+        "profession": "Luminary",
+        "activeMs": 740510,
+        "healingTotals": {
+          "healing": 234952,
+          "downedHealing": 42409,
+          "squadHealing": 223197,
+          "squadDownedHealing": 42409,
+          "groupHealing": 55233,
+          "groupDownedHealing": 23779,
+          "selfHealing": 20231,
+          "selfDownedHealing": 0,
+          "offSquadHealing": 11755,
+          "offSquadDownedHealing": 0,
+          "barrier": 124830,
+          "squadBarrier": 124830,
+          "groupBarrier": 74391,
+          "selfBarrier": 27492
+        }
+      },
+      {
+        "account": "pinguinox.9528",
+        "profession": "Scrapper",
+        "activeMs": 740499,
+        "healingTotals": {
+          "healing": 295091,
+          "downedHealing": 0,
+          "squadHealing": 295091,
+          "squadDownedHealing": 0,
+          "groupHealing": 185776,
+          "groupDownedHealing": 0,
+          "barrier": 162624,
+          "squadBarrier": 162624,
+          "groupBarrier": 84800
+        }
+      },
+      {
+        "account": "Wag Z.8294",
+        "profession": "Catalyst",
+        "activeMs": 371819,
+        "healingTotals": {
+          "healing": 725,
+          "downedHealing": 0,
+          "squadHealing": 725,
+          "squadDownedHealing": 0
+        }
+      }
+    ],
+    "maxDodges": {
+      "value": 34,
+      "player": "VincentCross.1469",
+      "count": 3,
+      "profession": "Firebrand"
+    },
+    "mvp": {
+      "player": "Ziet The Dreaded",
+      "account": "Zietlogik.6208",
+      "reason": "Top Rank in Down Contribution & High Strips",
+      "score": 4.5378405267651125,
+      "profession": "Reaper",
+      "color": "#52A76F",
+      "topStats": [
+        {
+          "name": "Down Contribution",
+          "val": "228k",
+          "ratio": 1
+        },
+        {
+          "name": "Strips",
+          "val": "219",
+          "ratio": 1
+        },
+        {
+          "name": "Damage",
+          "val": "1.66m",
+          "ratio": 2
+        }
+      ]
+    },
+    "silver": {
+      "player": "Momma Miko",
+      "account": "Shanhana Miko.8702",
+      "profession": "Luminary",
+      "score": 3.812263346815981,
+      "reason": "Top Rank in Stability & High Revives",
+      "topStats": [
+        {
+          "name": "Stability",
+          "val": "7.6k",
+          "ratio": 1
+        },
+        {
+          "name": "Revives",
+          "val": "6",
+          "ratio": 1
+        },
+        {
+          "name": "Participation",
+          "val": "5",
+          "ratio": 1
+        }
+      ]
+    },
+    "bronze": {
+      "player": "Mr Pinguino V",
+      "account": "pinguinox.9528",
+      "profession": "Scrapper",
+      "score": 3.5727891420713647,
+      "reason": "Top Rank in Participation & High Distance to Tag",
+      "topStats": [
+        {
+          "name": "Participation",
+          "val": "5",
+          "ratio": 1
+        },
+        {
+          "name": "Distance to Tag",
+          "val": "376",
+          "ratio": 1
+        },
+        {
+          "name": "Cleanses",
+          "val": "496",
+          "ratio": 2
+        }
+      ]
+    },
+    "avgMvpScore": 2.809739763164541,
+    "leaderboards": {
+      "downContrib": [
+        {
+          "rank": 1,
+          "account": "Zietlogik.6208",
+          "profession": "Reaper",
+          "value": 228068
+        },
+        {
+          "rank": 2,
+          "account": "undiee.3146",
+          "profession": "Catalyst",
+          "value": 189432
+        },
+        {
+          "rank": 3,
+          "account": "harasho.4281",
+          "profession": "Amalgam",
+          "value": 177377
+        },
+        {
+          "rank": 4,
+          "account": "VincentCross.1469",
+          "profession": "Firebrand",
+          "value": 137991
+        },
+        {
+          "rank": 5,
+          "account": "Vettexl.9726",
+          "profession": "Luminary",
+          "value": 120390
+        },
+        {
+          "rank": 6,
+          "account": "Wag Z.8294",
+          "profession": "Catalyst",
+          "value": 105251
+        },
+        {
+          "rank": 7,
+          "account": "Revan Malise.5107",
+          "profession": "Luminary",
+          "value": 102800
+        },
+        {
+          "rank": 8,
+          "account": "Grimmster.6924",
+          "profession": "Reaper",
+          "value": 34423
+        },
+        {
+          "rank": 9,
+          "account": "moxic.6038",
+          "profession": "Scourge",
+          "value": 33420
+        },
+        {
+          "rank": 10,
+          "account": "Shanhana Miko.8702",
+          "profession": "Luminary",
+          "value": 9433
+        },
+        {
+          "rank": 11,
+          "account": "pinguinox.9528",
+          "profession": "Scrapper",
+          "value": 5887
+        },
+        {
+          "rank": 12,
+          "account": "Quantumized.5873",
+          "profession": "Scrapper",
+          "value": 2633
+        },
+        {
+          "rank": 13,
+          "account": "Stan.9684",
+          "profession": "Tempest",
+          "value": 1608
+        }
+      ],
+      "barrier": [
+        {
+          "rank": 1,
+          "account": "Quantumized.5873",
+          "profession": "Scrapper",
+          "value": 223134
+        },
+        {
+          "rank": 2,
+          "account": "Revan Malise.5107",
+          "profession": "Luminary",
+          "value": 163519
+        },
+        {
+          "rank": 3,
+          "account": "pinguinox.9528",
+          "profession": "Scrapper",
+          "value": 162624
+        },
+        {
+          "rank": 4,
+          "account": "Shanhana Miko.8702",
+          "profession": "Luminary",
+          "value": 124830
+        },
+        {
+          "rank": 5,
+          "account": "Vettexl.9726",
+          "profession": "Luminary",
+          "value": 59670
+        },
+        {
+          "rank": 6,
+          "account": "moxic.6038",
+          "profession": "Scourge",
+          "value": 55316
+        },
+        {
+          "rank": 7,
+          "account": "harasho.4281",
+          "profession": "Amalgam",
+          "value": 11909
+        }
+      ],
+      "healing": [
+        {
+          "rank": 1,
+          "account": "Stan.9684",
+          "profession": "Tempest",
+          "value": 581282
+        },
+        {
+          "rank": 2,
+          "account": "pinguinox.9528",
+          "profession": "Scrapper",
+          "value": 295091
+        },
+        {
+          "rank": 3,
+          "account": "Shanhana Miko.8702",
+          "profession": "Luminary",
+          "value": 277361
+        },
+        {
+          "rank": 4,
+          "account": "moxic.6038",
+          "profession": "Scourge",
+          "value": 161242
+        },
+        {
+          "rank": 5,
+          "account": "Vettexl.9726",
+          "profession": "Luminary",
+          "value": 152603
+        },
+        {
+          "rank": 6,
+          "account": "Quantumized.5873",
+          "profession": "Scrapper",
+          "value": 88833
+        },
+        {
+          "rank": 7,
+          "account": "undiee.3146",
+          "profession": "Catalyst",
+          "value": 65555
+        },
+        {
+          "rank": 8,
+          "account": "Revan Malise.5107",
+          "profession": "Luminary",
+          "value": 59709
+        },
+        {
+          "rank": 9,
+          "account": "Grimmster.6924",
+          "profession": "Reaper",
+          "value": 21899
+        },
+        {
+          "rank": 10,
+          "account": "harasho.4281",
+          "profession": "Amalgam",
+          "value": 16069
+        },
+        {
+          "rank": 11,
+          "account": "Zietlogik.6208",
+          "profession": "Reaper",
+          "value": 15500
+        },
+        {
+          "rank": 12,
+          "account": "VincentCross.1469",
+          "profession": "Firebrand",
+          "value": 5492
+        },
+        {
+          "rank": 13,
+          "account": "Wag Z.8294",
+          "profession": "Catalyst",
+          "value": 725
+        }
+      ],
+      "dodges": [
+        {
+          "rank": 1,
+          "account": "VincentCross.1469",
+          "profession": "Firebrand",
+          "value": 34
+        },
+        {
+          "rank": 2,
+          "account": "Revan Malise.5107",
+          "profession": "Luminary",
+          "value": 30
+        },
+        {
+          "rank": 3,
+          "account": "moxic.6038",
+          "profession": "Scourge",
+          "value": 26
+        },
+        {
+          "rank": 3,
+          "account": "Zietlogik.6208",
+          "profession": "Reaper",
+          "value": 26
+        },
+        {
+          "rank": 5,
+          "account": "Shanhana Miko.8702",
+          "profession": "Luminary",
+          "value": 22
+        },
+        {
+          "rank": 6,
+          "account": "Vettexl.9726",
+          "profession": "Luminary",
+          "value": 19
+        },
+        {
+          "rank": 6,
+          "account": "Wag Z.8294",
+          "profession": "Catalyst",
+          "value": 19
+        },
+        {
+          "rank": 8,
+          "account": "harasho.4281",
+          "profession": "Amalgam",
+          "value": 18
+        },
+        {
+          "rank": 9,
+          "account": "undiee.3146",
+          "profession": "Catalyst",
+          "value": 16
+        },
+        {
+          "rank": 10,
+          "account": "Quantumized.5873",
+          "profession": "Scrapper",
+          "value": 15
+        },
+        {
+          "rank": 11,
+          "account": "pinguinox.9528",
+          "profession": "Scrapper",
+          "value": 9
+        },
+        {
+          "rank": 12,
+          "account": "Grimmster.6924",
+          "profession": "Reaper",
+          "value": 6
+        },
+        {
+          "rank": 13,
+          "account": "Stan.9684",
+          "profession": "Tempest",
+          "value": 5
+        }
+      ],
+      "strips": [
+        {
+          "rank": 1,
+          "account": "Zietlogik.6208",
+          "profession": "Reaper",
+          "value": 219
+        },
+        {
+          "rank": 2,
+          "account": "moxic.6038",
+          "profession": "Scourge",
+          "value": 28
+        },
+        {
+          "rank": 3,
+          "account": "Grimmster.6924",
+          "profession": "Reaper",
+          "value": 20
+        },
+        {
+          "rank": 4,
+          "account": "Revan Malise.5107",
+          "profession": "Luminary",
+          "value": 2
+        },
+        {
+          "rank": 4,
+          "account": "Vettexl.9726",
+          "profession": "Luminary",
+          "value": 2
+        }
+      ],
+      "cleanses": [
+        {
+          "rank": 1,
+          "account": "Stan.9684",
+          "profession": "Tempest",
+          "value": 616
+        },
+        {
+          "rank": 2,
+          "account": "pinguinox.9528",
+          "profession": "Scrapper",
+          "value": 496
+        },
+        {
+          "rank": 3,
+          "account": "VincentCross.1469",
+          "profession": "Firebrand",
+          "value": 146
+        },
+        {
+          "rank": 4,
+          "account": "Shanhana Miko.8702",
+          "profession": "Luminary",
+          "value": 138
+        },
+        {
+          "rank": 5,
+          "account": "Revan Malise.5107",
+          "profession": "Luminary",
+          "value": 125
+        },
+        {
+          "rank": 6,
+          "account": "Quantumized.5873",
+          "profession": "Scrapper",
+          "value": 122
+        },
+        {
+          "rank": 7,
+          "account": "moxic.6038",
+          "profession": "Scourge",
+          "value": 102
+        },
+        {
+          "rank": 8,
+          "account": "Vettexl.9726",
+          "profession": "Luminary",
+          "value": 95
+        },
+        {
+          "rank": 9,
+          "account": "Zietlogik.6208",
+          "profession": "Reaper",
+          "value": 65
+        },
+        {
+          "rank": 10,
+          "account": "undiee.3146",
+          "profession": "Catalyst",
+          "value": 57
+        },
+        {
+          "rank": 11,
+          "account": "Grimmster.6924",
+          "profession": "Reaper",
+          "value": 51
+        },
+        {
+          "rank": 12,
+          "account": "harasho.4281",
+          "profession": "Amalgam",
+          "value": 19
+        },
+        {
+          "rank": 13,
+          "account": "Wag Z.8294",
+          "profession": "Catalyst",
+          "value": 9
+        }
+      ],
+      "cc": [
+        {
+          "rank": 1,
+          "account": "VincentCross.1469",
+          "profession": "Firebrand",
+          "value": 27
+        },
+        {
+          "rank": 2,
+          "account": "moxic.6038",
+          "profession": "Scourge",
+          "value": 26
+        },
+        {
+          "rank": 3,
+          "account": "Zietlogik.6208",
+          "profession": "Reaper",
+          "value": 23
+        },
+        {
+          "rank": 4,
+          "account": "undiee.3146",
+          "profession": "Catalyst",
+          "value": 17
+        },
+        {
+          "rank": 5,
+          "account": "Quantumized.5873",
+          "profession": "Scrapper",
+          "value": 6
+        },
+        {
+          "rank": 6,
+          "account": "pinguinox.9528",
+          "profession": "Scrapper",
+          "value": 4
+        },
+        {
+          "rank": 7,
+          "account": "Wag Z.8294",
+          "profession": "Catalyst",
+          "value": 3
+        }
+      ],
+      "stability": [
+        {
+          "rank": 1,
+          "account": "Shanhana Miko.8702",
+          "profession": "Luminary",
+          "value": 7645.534522000001
+        },
+        {
+          "rank": 2,
+          "account": "Revan Malise.5107",
+          "profession": "Luminary",
+          "value": 4771.595638000001
+        },
+        {
+          "rank": 3,
+          "account": "VincentCross.1469",
+          "profession": "Firebrand",
+          "value": 3429.268358
+        },
+        {
+          "rank": 4,
+          "account": "Vettexl.9726",
+          "profession": "Luminary",
+          "value": 3291.076713
+        },
+        {
+          "rank": 5,
+          "account": "pinguinox.9528",
+          "profession": "Scrapper",
+          "value": 2001.49221
+        },
+        {
+          "rank": 6,
+          "account": "Quantumized.5873",
+          "profession": "Scrapper",
+          "value": 551.33767
+        },
+        {
+          "rank": 7,
+          "account": "Zietlogik.6208",
+          "profession": "Reaper",
+          "value": 406.76308900000004
+        },
+        {
+          "rank": 8,
+          "account": "Stan.9684",
+          "profession": "Tempest",
+          "value": 253.854714
+        },
+        {
+          "rank": 9,
+          "account": "moxic.6038",
+          "profession": "Scourge",
+          "value": 224.93163899999996
+        },
+        {
+          "rank": 10,
+          "account": "harasho.4281",
+          "profession": "Amalgam",
+          "value": 59.914576
+        },
+        {
+          "rank": 11,
+          "account": "Grimmster.6924",
+          "profession": "Reaper",
+          "value": 26.023353
+        }
+      ],
+      "closestToTag": [
+        {
+          "rank": 1,
+          "account": "pinguinox.9528",
+          "profession": "Scrapper",
+          "value": 375.51328735351564
+        },
+        {
+          "rank": 2,
+          "account": "Revan Malise.5107",
+          "profession": "Luminary",
+          "value": 380.72003173828125
+        },
+        {
+          "rank": 3,
+          "account": "Zietlogik.6208",
+          "profession": "Reaper",
+          "value": 479.78224690755206
+        },
+        {
+          "rank": 4,
+          "account": "moxic.6038",
+          "profession": "Scourge",
+          "value": 561.496083577474
+        },
+        {
+          "rank": 5,
+          "account": "undiee.3146",
+          "profession": "Catalyst",
+          "value": 616.3600056966146
+        },
+        {
+          "rank": 6,
+          "account": "Wag Z.8294",
+          "profession": "Catalyst",
+          "value": 677.0275675455729
+        },
+        {
+          "rank": 7,
+          "account": "Shanhana Miko.8702",
+          "profession": "Luminary",
+          "value": 686.8120208740235
+        },
+        {
+          "rank": 8,
+          "account": "Vettexl.9726",
+          "profession": "Luminary",
+          "value": 783.9144694010416
+        },
+        {
+          "rank": 9,
+          "account": "harasho.4281",
+          "profession": "Amalgam",
+          "value": 870.7527262369791
+        },
+        {
+          "rank": 10,
+          "account": "Quantumized.5873",
+          "profession": "Scrapper",
+          "value": 886.4446105957031
+        },
+        {
+          "rank": 11,
+          "account": "Grimmster.6924",
+          "profession": "Reaper",
+          "value": 1238.2518717447917
+        },
+        {
+          "rank": 12,
+          "account": "Stan.9684",
+          "profession": "Tempest",
+          "value": 7176.012339274089
+        }
+      ]
+    }
+  }
+}
