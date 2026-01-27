@@ -1,5 +1,23 @@
 [
   {
+    "id": "20260125-135451-fmy4",
+    "title": "Lightspeed Jack, Tilted Illusion, Valentino Graves",
+    "commanders": [
+      "Lightspeed Jack",
+      "Tilted Illusion",
+      "Valentino Graves"
+    ],
+    "dateStart": "2026-01-25T21:54:51.000Z",
+    "dateEnd": "2026-01-26T03:24:09.000Z",
+    "dateLabel": "1/25/2026, 1:54:51 PM - 1/25/2026, 7:24:09 PM",
+    "url": "https://darkharasho.github.io/fight-reports/?report=20260125-135451-fmy4",
+    "summary": {
+      "borderlandsPct": 0.3333333333333333,
+      "avgSquadSize": 22,
+      "avgEnemySize": 58
+    }
+  },
+  {
     "id": "20260125-134644-wgky",
     "title": "Lightspeed Jack, Tilted Illusion, Valentino Graves",
     "commanders": [
