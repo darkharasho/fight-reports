@@ -1,29 +1,5 @@
 [
   {
-    "id": "20260115-183635-qpfl",
-    "title": "Corsair Wag, Revan Belladonna",
-    "commanders": [
-      "Corsair Wag",
-      "Revan Belladonna"
-    ],
-    "dateStart": "2026-01-16T02:36:35.000Z",
-    "dateEnd": "2026-01-17T17:57:57.000Z",
-    "dateLabel": "1/15/2026, 6:36:35 PM - 1/17/2026, 9:57:57 AM",
-    "url": "https://darkharasho.github.io/fight-reports/?report=20260115-183635-qpfl",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
-      ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 33
-    }
-  },
-  {
     "id": "20260115-175933-h2tq",
     "title": "Corsair Wag",
     "commanders": [
